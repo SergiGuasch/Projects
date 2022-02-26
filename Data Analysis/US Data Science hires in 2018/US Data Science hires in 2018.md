@@ -1,5 +1,5 @@
 # US Data Science hires in 2018 - Getafix 💻 🖱️
-by [AgustinCarcelen](https://github.com/AgustinCarcelen) & [Sergi Guasch](https://github.com/SergiGuasch) & [Luis Badia](https://github.com/lluis90badia), Jan 2022
+by [Sergi Guasch](https://github.com/SergiGuasch), Jan 2022
 
 ## Study of the most demanded jobs in the US related to the Data Science
 
