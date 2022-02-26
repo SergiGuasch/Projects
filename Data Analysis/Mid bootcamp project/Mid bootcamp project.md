@@ -4,7 +4,7 @@
 -------
 
 # Case Study: Regression/ Predicting the price of houses :moneybag: :euro: :house:
-by [Marc Puyol](https://github.com/MpiPuin12/Marc-Puyol-Iniesta) &  [Sergi Guasch](https://github.com/SergiGuasch/sergiguasch), February 2022
+by [Sergi Guasch](https://github.com/SergiGuasch/sergiguasch), February 2022
 <br/><br/>
  - **Code:** Jupyter Notebook - [Link to code folder](https://github.com/SergiGuasch/hangover/blob/main/Mid-project.ipynb) 
  - **Tableau:** Tableau Link - [Link to Tableau file](https://public.tableau.com/app/profile/sergi4264/viz/Hangover_16448685754500/Dashboard1)
