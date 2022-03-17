@@ -18,6 +18,7 @@ by [Sergi Alvarez Guasch](https://github.com/SergiGuasch) March 2022
 - [Scraping TripAdvisor](https://github.com/SergiGuasch/Projects/edit/main/Data%20Analysis/Final%20Project/Final%20project.md#neural-network)
 - [Data Cleaning](https://github.com/SergiGuasch/Projects/edit/main/Data%20Analysis/Final%20Project/Final%20project.md#convolutional-network)
 - [Geocoding](https://github.com/SergiGuasch/Projects/edit/main/Data%20Analysis/Final%20Project/Final%20.md#Sentiment-Analysis)
+- [Mapping](#Mapping)  
 - [Scraping Cervecería Catalana](#Scraping-Cerveceria-Catalana)
 - [Dealing webscrape](https://github.com/SergiGuasch/Projects/edit/main/Data%20Analysis/Final%20Project/Final%20.md#Sentiment-Analysis)
 - [Sentiment Analysis](https://github.com/SergiGuasch/Projects/edit/main/Data%20Analysis/Final%20Project/Final%20.md#Sentiment-Analysis)
@@ -52,6 +53,7 @@ Once we have the dataframe we can run the code with the geopy module to get the 
 *Fig 2. DataFrame with the location column as result from geocode*
 
 ## 4 Mapping 
+<a name="#Mapping"/> 
 
 To visualize the maps properly, we need to deal with some restaurants that they are in Barcelona province, but the geopy module has not been able to locate it in Barcelona city. To deal with this we can use some GIS tools (as spatial join) in order to select just the restaurants are inside the limits of Barcelona city, and aggregate in the polygon shape the attributes of our dataframe geocoded.
 
