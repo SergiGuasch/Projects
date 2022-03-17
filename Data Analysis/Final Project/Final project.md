@@ -61,7 +61,7 @@ These two maps have been built in QGIS.
 
 Next step is to built a density map with Tableau, from the csv file that has been filtered before with the spatial join.
 
-![Density](https://github.com/SergiGuasch/Projects/blob/main/Data%20Analysis/Final%20Project/Images/Density.jpg)
+![Density](https://github.com/SergiGuasch/Projects/blob/main/Data%20Analysis/Final%20Project/Images/Density.jpg)  
 *Fig 3. Density map*
 
 ## 5 Check the restaurant with most reviews and webscrape it
