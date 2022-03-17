@@ -78,6 +78,9 @@ To get the dataframe with the information requested it has been necessary to scr
 
 To clean the dataframe we have to transform some strings into datetime. So to deal with this, we need to use the time library. Also we need to extract the numbers from rating columns using an extract method.
 
+![Datetime](https://github.com/SergiGuasch/Projects/blob/main/Data%20Analysis/Final%20Project/Images/Time.jpg)  
+*Fig 4. Datetime algorithm*
+
 ## 8 Sentiment Analysis
 
 The last part of the project is about the an analysis of the emotions of the sentences for each review. To do this it has been necessary implement the TextBlob library in order to get the polarity. From this one we can get some analysis to check the most positive polarity (close to 1), the most negative (close to -1), and also, to check the mean for the whole reviews from that restaurant. 
