@@ -1,86 +1,94 @@
 ![Ironhack](https://github.com/SergiGuasch/sergiguasch/blob/main/labs/week4/Lab2/Ironhack.jpg)  
-# Mid bootcamp project  
+# Final project  
 
 -------
 
-# Case Study: Regression/ Predicting the price of houses :moneybag: :euro: :house:
-by [Sergi Alvarez Guasch](https://github.com/SergiGuasch), [Marc Puyol Iniesta](https://github.com/MpiPuin12) February 2022
+# Webscraping and Sentiment Analysis from reviews of Barcelona restaurants from TripAdvisor 🍽️ ⭐ 🦉  
+by [Sergi Alvarez Guasch](https://github.com/SergiGuasch) March 2022  
 <br/><br/>
- - **Code:** Jupyter Notebook - [Link to code folder](https://github.com/SergiGuasch/hangover/blob/main/Mid-project.ipynb) 
- - **Tableau:** Tableau Link - [Link to Tableau file](https://public.tableau.com/app/profile/sergi4264/viz/Hangover_16448685754500/Dashboard1)
- - **SQL:** MySQL file - [Link to MySQL file](https://github.com/SergiGuasch/hangover/blob/main/SQL_hangover.sql)
+ - **Code:** Jupyter Notebook1 - [Link to code folder](https://github.com/SergiGuasch/Projects/blob/main/Data%20Analysis/Final%20Project/Restaurants.ipynb)
+ - **Code:** Jupyter Notebook2 - [Link to code folder](https://github.com/SergiGuasch/Projects/blob/main/Data%20Analysis/Final%20Project/Full_Reviews.ipynb) 
+ - **Tableau:** Tableau Link1 - [Link to Tableau file](https://public.tableau.com/app/profile/sergi4264/viz/TripAdvisor_Restaurants/Heatmap)
+ - **Tableau:** Tableau Link2 - [Link to Tableau file](https://public.tableau.com/app/profile/sergi4264/viz/TripAdvisor_Reviews/Words)
+ - **Presentation:** Powerpoint - [Link to ppt folder](https://github.com/SergiGuasch/Projects/blob/main/Data%20Analysis/Final%20Project/TripAdvisor.pptx)
 
-## 1 Importing and understanding the data
-The database is composed of 21,597 rows (each representing a house in the King County in Washington state) and 21 columns. Additionally, we have added two new columns, one that reflects the year in which the house was built or reformed and one that reflects the distance from the center (the most expensive area).
+## Table of contents  
 
-![Data_distribution](https://github.com/SergiGuasch/hangover/blob/main/images/1_Data_distribution.jpg)  
-*Fig 1. Data distribution in King County by zipcode*
+- [Introduction](https://github.com/SergiGuasch/Projects/edit/main/Data%20Analysis/Final%20Project/Final%20project.md#Introduction-Purpose)
+- [Scraping TripAdvisor](https://github.com/SergiGuasch/Projects/edit/main/Data%20Analysis/Final%20Project/Final%20project.md#neural-network)
+- [Data Cleaning](https://github.com/SergiGuasch/Projects/edit/main/Data%20Analysis/Final%20Project/Final%20project.md#convolutional-network)
+- [Geocoding](https://github.com/SergiGuasch/Projects/edit/main/Data%20Analysis/Final%20Project/Final%20.md#Sentiment-Analysis)
+- [Scraping Cervecería Catalana](https://github.com/SergiGuasch/Projects/edit/main/Data%20Analysis/Final%20Project/Final%20.md#Sentiment-Analysis)
+- [Dealing webscrape](https://github.com/SergiGuasch/Projects/edit/main/Data%20Analysis/Final%20Project/Final%20.md#Sentiment-Analysis)
+- [Sentiment Analysis](https://github.com/SergiGuasch/Projects/edit/main/Data%20Analysis/Final%20Project/Final%20.md#Sentiment-Analysis)
+- [Lexical analysis](https://github.com/SergiGuasch/Projects/edit/main/Data%20Analysis/Final%20Project/Final%20.md#Sentiment-Analysis) 
+- [Conclusions](https://github.com/SergiGuasch/Projects/edit/main/Data%20Analysis/Final%20Project/Final%20.md#Conclusions)
 
-## 2 Data Cleaning & Standarization
-### 2.1. Checking Null values
-Our first step was to try to find the null values. The dataset doesn't have any null values so we don't have to deal with them. However, it is important to think about the reason why these nulls do not exist, since this can introduce some kind of bias in the data. We have to observe if data may have been duplicated to avoid nulls, if random values have been incorporated...
+## Introduction (Purpose)  
 
-### 2.1. Checking for duplicated Values
-Our approach to finding duplicates values was first of all checking the reason why a same id was repeated. Due to the fact that we only had data from 2014 and 2015, probably the only reason why a house may be repeated it's because it was sold two times in this period and, therefore, two different prices (but the independent variables remained the same.) That's why we decided to only keep the last date transaction info since it's the one that recaps better the actual price of that house.
 
-![Duplicates](https://github.com/SergiGuasch/hangover/blob/main/images/2_duplicates.jpg)  
-*Fig 2. Rows duplicates by Id*
 
-## 3  Pre-processing 
-### 3.1  Checking data types
-We first thought of converting the bathrooms to an integer but since it can also take decimals values we decided to leave it as a float. However, we did convert floors into an integer.
 
-### 3.2  Checking data shapes
-We first plot all the graphs to try to detect clear outliers. At first sight, most of the numerical columns(sqft_living, sqft_living15, sqft_lot, sqft_lot15, sqft_above, sqft_basement) seem to have some outliers. For the sqft_living variables, since it behaves as a kind of normal distribution, we decided to drop the outliers that were outside the range of 3 standard deviations. For the sqft_lot, we drop all the values that were greater than 8-hundred thousand. For both variables we tried to make a log transformation to avoid the skewness of the model but it didn't contribute to the success of the model. We also see a clear correlation between sqft_living and sqft_above so we may only include one of the two in the model.  Regarding the categorical variables such as bedrooms, we'll deal with non-sense outliers such as 33 and 11 bedrooms(not consistent with the rest of the attributes of the house). For the 33 bedrooms house, we'll treat it as a typo and interpret it as 3.
+## 1 Scraping the data from the TripAdvisor website  
+The first step is to get the data from the next website:  [Link to the TripAdvisor website ](https://www.tripadvisor.es/Search?q=Barcelona&searchSessionId=51C8E5CE54DA772C3953CD9DA7D126D31646914148673ssid&searchNearby=false&sid=6CE36F5C961D4332A3DC16D3040AA0ED1646914152244&blockRedirect=true&ssrc=e&rf=43)  
 
-![Scatterplots](https://github.com/SergiGuasch/hangover/blob/main/images/3_scatterplots.jpg)  
-*Fig 3. Scatterplots of numerical variables*
+We need to get the information most relevant for the future analysis and visualizations/maps. In this sense, we get the information from the title of the restaurant, the rating of the restaurant, the number of reviews and finally we can get also the address. The results it will be a dataframe of four columns with this information.
 
-### 3.3  Check useless columns
-For checking which columns should we add to our model, we run both the correlation matrix and the scatter_matrix so that we could check for multicollinearity, which were the variables more related to the price... After observing the scatter_matrix, and observing that the sqft_living behaved as a kind of normal distribution we decided to deal with it's outliers by droping the values away from it's mean and 3 std. deviations. For the numeric variables, we introduce to the model sqft_living and sqft_basement. The reason for the first (sqft_living) is that is the variable more correlated with the target and it's very correlated with another numeric variable (sqft_above) that we drop to avoid multicollinearity. Regarding sqft_basement, is not as correlated to sqft_living so we'll live it in the model.
+![Dataframe](https://github.com/SergiGuasch/Projects/blob/main/Data%20Analysis/Final%20Project/Images/restaurants.jpg)  
+*Fig 1. Dataframe obtained from the scrape*
 
-![Heatmap](https://github.com/SergiGuasch/hangover/blob/main/images/4_Heatmap.jpg)  
-*Fig 4. Heatmap of numerical variables*
+## 2 Data Cleaning: Standarization & Checking Null values  
 
-### 3.4 Dealing with the categorical variables
-As we commented before, we added a categorical variable (Decade build) that shows whether the date it was built or the date it was renovated. We afterwards group them by decades. Another step, it was dummifying all our categorical variables. This was one of the main limitations of the model. When dummifying the zipcode, we created a lot of little subsamples that may not have many observations and therefore drive us to error. This problem gets bigger when we drop some outliers that may reduce even more the size of our subsamples.
+Before the technical cleaning we could drop some restaurants bearing in mind their names, cause we have found some restaurants that they have the word Barcelona in their names. 
 
-## 4  Testing the model
+Next, we need to prepare the dataframe to be able to geocode the addresses with the geopy module. Doing the webscraping there aren't null values, but we have to standarize some names in the address, make it lower case and delete some special characters.  
 
-### 4.1  Train test split
-Once all the engineering and the pre-processing is finished we, as usual, run and test our model.
+## 3 Geocoding
 
-### 4.2  Linear regression model
-The first model we tried was the linear regression model. We obtained an R2 of 0.8139.
+Once we have the dataframe we can run the code with the geopy module to get the longitud and latitud variables. Also we can get a column locator to check if the the location got it from geopy algorithm is the same than the location from the address scraped. The dataframe resulting from the geocoding it gave us some null values but also some wrong addresses. To deal with this we could transform manually the null addresses to longitud latitud, but we decided to drop it. 
 
-### 4.3 Trying feature selection to simplify our model
-As we have already mentioned, the problem with our model was that it had too many variables. That is why, in order to try to reduce this problem, we have tried some kind of feature selection model that allows us to drop the variables that contribute the least to the model. By doing this, we may save some time and computing cost. If from the 95 original variables we shrink to 45(the most important for the model) we only lose 0.1 od the R2 score. The code used was the following.
+![Geocoding](https://github.com/SergiGuasch/Projects/blob/main/Data%20Analysis/Final%20Project/Images/Geocoding.jpg)  
+*Fig 2. DataFrame with the location column as result from geocode*
 
-![Code](https://github.com/SergiGuasch/hangover/blob/main/images/5_code.jpg)  
-*Fig 5. Feature selection code*
+## 4 Mapping 
 
-### 4.4 Testing other models
-In order to try to improve the performance of our model, we have tried to use other models that could be better adjusted to the characteristics of the database we were working with. The models we tried were ('RandomForestRegressor', 'KNeighborsRegressor','GradientBoostingRegressor', 'linear_model', 'tree_Regressor'). After testing these models, both the RandomForestRegressor and GradientBoostingRegressor, are slightly better than the LinearRegressionModel.
+To visualize the maps properly, we need to deal with some restaurants that they are in Barcelona province, but the geopy module has not been able to locate it in Barcelona city. To deal with this we can use some GIS tools (as spatial join) in order to select just the restaurants are inside the limits of Barcelona city, and aggregate in the polygon shape the attributes of our dataframe geocoded.
 
-![Other_models](https://github.com/SergiGuasch/hangover/blob/main/images/6_other_models.jpg)  
-*Fig 6. Testing other models*
+The shapefile used is a neighborhood administrative boundary from the next website: 
 
-## 5 Scaling numerical variables
-Another of the attempts to improve our model has been to scale the numerical data. For it, we used the maxmin_scaler, the st_scaler and the rob_scaler. However, we can't appreciaate a remarkable difference.
- 
- 
-## 6  MODEL 2 - Setting distance to center as dummie and not dummyfiyng all the zipcodes
-In our second model, we tried to think a way of improving the score we obtained on our previous models. As we commented before, one of the main issues in our previous model was dealing with some many subsamples due to the dummification of the zipcode variables. We therefore, tried to reduce the number of subsamples by some kind of aggrupation that had more observations for each subsample. That's why we decided to divide the zipcodes in 5 groups depending how far away were they from the most expensive area (best place to live). It appeared to be a clear pattern that the distance to this point would mean less value of the house (less services, more distance to business area...). That's why we created the distance_to_center column. For the rest of the model, we just follow the same steps as before. However, probably due to the fact that our election of zipcodes group were arbitrary, we didn't manage to find a better performing model.
- 
-![Model2](https://github.com/SergiGuasch/hangover/blob/main/images/7_model2.jpg)  
-*Fig 7. Results of model 2*
- 
- ## 7 Limitations of our model: 
- 
- The main limitation of our model, as we have been introducing throughout the paper is the excess of variables we had. This harms the model in many different ways. Some are:
+Then we can get the maps of the number of restaurants by neighborhood, or the maps of the mean rating restaurants by neighboordhood.
+These two maps have been built in QGIS.
 
-- Computational cost and time to run the model (in huge databases it would be unfeasible)
-- Since we create so many subsamples within our own sample, we have not very large subsamples, which also limits our ability to deal with outliers and irrelevant data. 
+Next step is to built a density map with Tableau, from the csv file that has been filtered before with the spatial join.
+
+![Density](https://github.com/SergiGuasch/Projects/blob/main/Data%20Analysis/Final%20Project/Images/Density.jpg)  
+*Fig 3. Density map*
+
+## 5 Check the restaurant with most reviews and webscrape it
+
+The next part of the project is focus on the restaurant with most reviews in Barcelona. So, from this one we have also scrapped all its reviews bearing in mind the description of the review, the date of the review and the rating acording to the reviews of the users of TripAdvisor. 
+
+The restaurant in particular is Cervecería Catalana, and the website of its reviews are in the next url: [Link to the Cervecería Catalana in TripAdvisor website ](https://www.tripadvisor.es/Restaurant_Review-g187497-d782944-Reviews-Cerveceria_Catalana-Barcelona_Catalonia.html)
+
+## 6 Dealing with the webscrape  
+
+To get the dataframe with the information requested it has been necessary to scrape the first page of the review separately from the rest of the pages. So, once we get the 2 dataframes, we need to concatenate both to get just one dataframe to work.
+
+## 7 Cleaning the dataframe  
+
+To clean the dataframe we have to transform some strings into datetime. So to deal with this, we need to use the time library. Also we need to extract the numbers from rating columns using an extract method.
+
+## 8 Sentiment Analysis
+
+The last part of the project is about the an analysis of the emotions of the sentences for each review. To do this it has been necessary implement the TextBlob library in order to get the polarity. From this one we can get some analysis to check the most positive polarity (close to 1), the most negative (close to -1), and also, to check the mean for the whole reviews from that restaurant. 
+
+The results from this Sentiment Analysis are that the trend of the reviews looks positive from a general point of view. Also, we have compared the results of this Sentiment Analysis with the mean of the reviews that the users have done. 
+
+## 9 Lexical analysis
+
+Finally, we have been created a list of tokens, the most used words in the reviews. We also exclude the non stop words, and visualizing the results in Tableau. 
+
+## Conclusions  
 
   
 
