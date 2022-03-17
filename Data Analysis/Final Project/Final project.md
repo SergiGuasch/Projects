@@ -3,7 +3,7 @@
 
 -------
 
-# Webscraping and Sentiment Analysis from reviews of TripAdvisor 🍽️: ⭐: 🦉:  
+# Webscraping and Sentiment Analysis from reviews of TripAdvisor 🍽️ ⭐ 🦉  
 by [Sergi Alvarez Guasch](https://github.com/SergiGuasch) March 2022  
 <br/><br/>
  - **Code:** Jupyter Notebook - [Link to code folder](https://github.com/SergiGuasch/hangover/blob/main/Mid-project.ipynb) 
