@@ -106,7 +106,7 @@ Finally, as an extra feature, we have been created a list of tokens, the most us
 
 As results from the different analysis extracted from the TripAdvisor we can conclude that the major density of restaurants in Barcelona are in the neighborhood "la Dreta de l'Eixample", and the neighborhoods that surround it. Also we can see that the general rating in Barcelona is about 4 of 5 stars, which means a notable score.
 
-On the other hand, analysing the reviews extracted from the TripAdvisor website of Cervecería Catalana, we can appreciate a positive general trend of the whole reviews. Comparing this result with the mean ratings from the total number of reviews posted for this restaurant, we can also say that the model is not so accurate. However, in both cases the percentatge of positive reviews indicates that Cerveceria Catalana is a recommendable restaurant for most of the people. 
+On the other hand, analysing the reviews extracted from the TripAdvisor website of Cervecería Catalana, we can appreciate a positive general trend of the whole reviews. Comparing this result with the mean ratings from the total number of reviews posted for this restaurant, we can also say that the model is not so accurate. However, in both cases the percentage of positive reviews indicates that Cerveceria Catalana is a recommendable restaurant for most of the people. 
   
 
 
