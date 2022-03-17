@@ -15,8 +15,8 @@ by [Sergi Alvarez Guasch](https://github.com/SergiGuasch) March 2022
 ## Table of contents  
 
 - [Introduction](#Introduction)
-- [Scraping TripAdvisor](#scraping)
-- [Data Cleaning](#data-cleaning)
+- [Scraping TripAdvisor](#Scraping)
+- [Data Cleaning](#Data-cleaning)
 - [Geocoding](#Geocoding)
 - [Mapping](#Mapping)  
 - [Scraping Cervecería Catalana](#scraping-cerveceria-catalana)
@@ -32,7 +32,7 @@ by [Sergi Alvarez Guasch](https://github.com/SergiGuasch) March 2022
 
 
 ## Scraping the data from the TripAdvisor website
-<a name="scraping"/>
+<a name="Scraping"/>
 
 The first step is to get the data from the next website:  [Link to the TripAdvisor website ](https://www.tripadvisor.es/Search?q=Barcelona&searchSessionId=51C8E5CE54DA772C3953CD9DA7D126D31646914148673ssid&searchNearby=false&sid=6CE36F5C961D4332A3DC16D3040AA0ED1646914152244&blockRedirect=true&ssrc=e&rf=43)  
 
@@ -42,7 +42,7 @@ We need to get the information most relevant for the future analysis and visuali
 *Fig 1. Dataframe obtained from the scrape*
 
 ## Data Cleaning: Standarization & Checking Null values 
-<a name="data-cleaning"/>
+<a name="Data-cleaning"/>
 
 Before the technical cleaning we could drop some restaurants bearing in mind their names, cause we have found some restaurants that they have the word Barcelona in their names. 
 
