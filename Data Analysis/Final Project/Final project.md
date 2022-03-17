@@ -21,7 +21,7 @@ by [Sergi Alvarez Guasch](https://github.com/SergiGuasch) March 2022
 - [Scraping Cervecería Catalana](https://github.com/SergiGuasch/Projects/edit/main/Data%20Analysis/Final%20Project/Final%20.md#Sentiment-Analysis)
 - [Dealing webscrape](https://github.com/SergiGuasch/Projects/edit/main/Data%20Analysis/Final%20Project/Final%20.md#Sentiment-Analysis)
 - [Sentiment Analysis](https://github.com/SergiGuasch/Projects/edit/main/Data%20Analysis/Final%20Project/Final%20.md#Sentiment-Analysis)
-- [Lexical analysis](#Lexical analysis)  
+- [Lexical analysis](#Lexical-analysis)  
 - [Conclusions](#Conclusions)  
  
 ## Introduction (Purpose)  
@@ -90,7 +90,7 @@ The results from this Sentiment Analysis are that the trend of the reviews looks
 *Fig 5. Polarity score per review*
 
 ## 9 Lexical analysis  
-<a name="Lexical analysis"/> 
+<a name="Lexical-analysis"/> 
 
 Finally, we have been created a list of tokens, the most used words in the reviews. We also exclude the non stop words, and visualizing the results in Tableau.  
 
