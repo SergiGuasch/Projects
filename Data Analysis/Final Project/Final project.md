@@ -28,7 +28,7 @@ by [Sergi Alvarez Guasch](https://github.com/SergiGuasch) March 2022
  
 ## Introduction (Purpose)  <a name="Introduction"/> 
 
-The purpose of the project is to get the data from the website TripAdvisor, to analyse the number of restaurants that are in Barcelona as well as to get the reviews of the restaurant most reviwed/visited by the TripAdvisor users in Barcelona city. Also, we want to analyse the reviews from this restaurant in order to know the overall trend of its customers/TripAdvors users.  
+The purpose of the project is to get the data from the website TripAdvisor, to analyze the number of restaurants that are in Barcelona as well as to get the reviews of the restaurant most reviewed/visited by the TripAdvisor users in Barcelona city. Also, we want to analyze the reviews from this restaurant in order to know the overall trend of its customers/TripAdvors users.  
 
 ## Scraping the data from the TripAdvisor website  <a name="Scraping"/>
 
