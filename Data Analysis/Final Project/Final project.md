@@ -15,7 +15,7 @@ by [Sergi Alvarez Guasch](https://github.com/SergiGuasch) March 2022
 ## Table of contents  
 
 - [Introduction](#Introduction)
-- [Scraping TripAdvisor](https://github.com/SergiGuasch/Projects/edit/main/Data%20Analysis/Final%20Project/Final%20project.md#neural-network)
+- [Scraping TripAdvisor](#scraping)
 - [Data Cleaning](#data-cleaning)
 - [Geocoding](#Geocoding)
 - [Mapping](#Mapping)  
@@ -31,7 +31,9 @@ by [Sergi Alvarez Guasch](https://github.com/SergiGuasch) March 2022
 
 
 
-## Scraping the data from the TripAdvisor website  
+## Scraping the data from the TripAdvisor website
+<a name="scraping"/>
+
 The first step is to get the data from the next website:  [Link to the TripAdvisor website ](https://www.tripadvisor.es/Search?q=Barcelona&searchSessionId=51C8E5CE54DA772C3953CD9DA7D126D31646914148673ssid&searchNearby=false&sid=6CE36F5C961D4332A3DC16D3040AA0ED1646914152244&blockRedirect=true&ssrc=e&rf=43)  
 
 We need to get the information most relevant for the future analysis and visualizations/maps. In this sense, we get the information from the title of the restaurant, the rating of the restaurant, the number of reviews and finally we can get also the address. The results it will be a dataframe of four columns with this information.
@@ -40,7 +42,7 @@ We need to get the information most relevant for the future analysis and visuali
 *Fig 1. Dataframe obtained from the scrape*
 
 ## Data Cleaning: Standarization & Checking Null values 
-<a name="#data-cleaning "/>
+<a name="data-cleaning"/>
 
 Before the technical cleaning we could drop some restaurants bearing in mind their names, cause we have found some restaurants that they have the word Barcelona in their names. 
 
