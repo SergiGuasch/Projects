@@ -24,7 +24,7 @@ by [Sergi Alvarez Guasch](https://github.com/SergiGuasch) March 2022
 - [Lexical analysis](https://github.com/SergiGuasch/Projects/edit/main/Data%20Analysis/Final%20Project/Final%20.md#Sentiment-Analysis) 
 - [Conclusions](https://github.com/SergiGuasch/Projects/edit/main/Data%20Analysis/Final%20Project/Final%20.md#Conclusions)
 
-## Introduction Purpose  
+## Introduction (Purpose)  
 
 
 
@@ -34,7 +34,7 @@ The first step is to get the data from the next website:  [Link to the TripAdvis
 
 We need to get the information most relevant for the future analysis and visualizations/maps. In this sense, we get the information from the title of the restaurant, the rating of the restaurant, the number of reviews and finally we can get also the address. The results it will be a dataframe of four columns with this information.
 
-![Data_distribution](https://github.com/SergiGuasch/hangover/blob/main/images/1_Data_distribution.jpg)  
+![Dataframe](https://github.com/SergiGuasch/Projects/blob/main/Data%20Analysis/Final%20Project/Images/restaurants.jpg)  
 *Fig 1. Data distribution in King County by zipcode*
 
 ## 2 Data Cleaning: Standarization & Checking Null values  
@@ -82,7 +82,7 @@ The results from this Sentiment Analysis are that the trend of the reviews looks
 
 Finally, we have been created a list of tokens, the most used words in the reviews. We also exclude the non stop words, and visualizing the results in Tableau. 
 
-## 10 Conclusions
+## 10 Conclusions  
 
   
 
