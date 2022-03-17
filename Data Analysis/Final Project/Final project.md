@@ -15,11 +15,11 @@ by [Sergi Alvarez Guasch](https://github.com/SergiGuasch) March 2022
 ## Table of contents  
 
 - [Introduction](https://github.com/SergiGuasch/Projects/edit/main/Data%20Analysis/Final%20Project/Final%20project.md#Introduction-Purpose)
-- [Neural Network](https://github.com/SergiGuasch/Projects/edit/main/Data%20Analysis/Final%20Project/Final%20project.md#neural-network)
+- [Scraping TripAdvisor](https://github.com/SergiGuasch/Projects/edit/main/Data%20Analysis/Final%20Project/Final%20project.md#neural-network)
 - [Convolutional Network](https://github.com/SergiGuasch/Projects/edit/main/Data%20Analysis/Final%20Project/Final%20project.md#convolutional-network)
-- [Extra](https://github.com/SergiGuasch/Projects/edit/main/Data%20Analysis/Final%20Project/Final%20project.md
+- [Extra](https://github.com/SergiGuasch/Projects/edit/main/Data%20Analysis/Final%20Project/Final%20Sentiment-Analysis.md
 
-## Introduction-Purpose  
+## Introduction Purpose  
 
 
 
