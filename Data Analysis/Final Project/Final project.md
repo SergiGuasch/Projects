@@ -14,12 +14,15 @@ by [Sergi Alvarez Guasch](https://github.com/SergiGuasch) March 2022
 
 ## Table of contents  
 
-- [Introduction](https://github.com/SergiGuasch/Projects/edit/main/Data%20Analysis/Final%20Project/Final%20project.md##Introduction-Purpose)
+- [Introduction](https://github.com/SergiGuasch/Projects/edit/main/Data%20Analysis/Final%20Project/Final%20project.md#Introduction-Purpose)
 - [Neural Network](https://github.com/SergiGuasch/Projects/edit/main/Data%20Analysis/Final%20Project/Final%20project.md#neural-network)
 - [Convolutional Network](https://github.com/SergiGuasch/Projects/edit/main/Data%20Analysis/Final%20Project/Final%20project.md#convolutional-network)
 - [Extra](https://github.com/SergiGuasch/Projects/edit/main/Data%20Analysis/Final%20Project/Final%20project.md
 
-##Introduction-Purpose
+## Introduction-Purpose  
+
+
+
 
 ## 1 Scraping the data from the TripAdvisor website  
 The first step is to get the data from the next website:  [Link to the TripAdvisor website ](https://www.tripadvisor.es/Search?q=Barcelona&searchSessionId=51C8E5CE54DA772C3953CD9DA7D126D31646914148673ssid&searchNearby=false&sid=6CE36F5C961D4332A3DC16D3040AA0ED1646914152244&blockRedirect=true&ssrc=e&rf=43)  
