@@ -32,7 +32,16 @@ Once we have the dataframe we can run the code with the geopy module to get the 
 
 ## 4 Mapping 
 
-Our first step was to try to find the null values. The dataset doesn't have any null values so we don't have to deal with them. However, it is important to think about the reason why these nulls do not exist, since this can introduce some kind of bias in the data. We have to observe if data may have been duplicated to avoid nulls, if random values have been incorporated...
+To visualize the maps properly, we need to deal with some restaurants that they are in Barcelona province, but the geopy module has not been able to locate it in Barcelona city. To deal with this we can use some GIS tools (as spatial join) in order to select just the restaurants are inside the limits of Barcelona city, and aggregate in the polygon shape the attributes of our dataframe geocoded.
+
+The shapefile used is a neighborhood administrative boundary from the next website: 
+
+Then we can get the maps of the number of restaurants by neighborhood, or the maps of the mean rating restaurants by neighboordhood.
+These two maps have been built in QGIS.
+
+Next step is to built a density map with Tableau, from the csv file that has been filtered before with the spatial join.
+
+## 5 Check the restaurant with most reviews and webscrape it
 
 ### 2.1. Checking for duplicated Values
 Our approach to finding duplicates values was first of all checking the reason why a same id was repeated. Due to the fact that we only had data from 2014 and 2015, probably the only reason why a house may be repeated it's because it was sold two times in this period and, therefore, two different prices (but the independent variables remained the same.) That's why we decided to only keep the last date transaction info since it's the one that recaps better the actual price of that house.
