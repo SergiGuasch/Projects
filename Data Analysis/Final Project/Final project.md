@@ -65,7 +65,7 @@ Next step is to built a density map with Tableau, from the csv file that has bee
 ![Density](https://github.com/SergiGuasch/Projects/blob/main/Data%20Analysis/Final%20Project/Images/Density.jpg)  
 *Fig 3. Density map*
 
-## 5 Check the restaurant with most reviews and webscrape it  
+## Check the restaurant with most reviews and webscrape it  
 <a name="#Scraping-Cerveceria-Catalana"/>  
 
 The next part of the project is focus on the restaurant with most reviews in Barcelona. So, from this one we have also scrapped all its reviews bearing in mind the description of the review, the date of the review and the rating acording to the reviews of the users of TripAdvisor. 
