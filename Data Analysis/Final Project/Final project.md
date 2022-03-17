@@ -22,7 +22,7 @@ by [Sergi Alvarez Guasch](https://github.com/SergiGuasch) March 2022
 - [Scraping Cervecería Catalana](#Scraping-Cerveceria-Catalana)
 - [Dealing webscrape](https://github.com/SergiGuasch/Projects/edit/main/Data%20Analysis/Final%20Project/Final%20.md#Sentiment-Analysis)
 - [Sentiment Analysis](https://github.com/SergiGuasch/Projects/edit/main/Data%20Analysis/Final%20Project/Final%20.md#Sentiment-Analysis)
-- [Lexical analysis](#Lexical-analysis)  
+- [Lexical analysis](#lexical-analysis)  
 - [Conclusions](#Conclusions)  
  
 ## Introduction (Purpose)
@@ -31,7 +31,7 @@ by [Sergi Alvarez Guasch](https://github.com/SergiGuasch) March 2022
 
 
 
-## 1 Scraping the data from the TripAdvisor website  
+## Scraping the data from the TripAdvisor website  
 The first step is to get the data from the next website:  [Link to the TripAdvisor website ](https://www.tripadvisor.es/Search?q=Barcelona&searchSessionId=51C8E5CE54DA772C3953CD9DA7D126D31646914148673ssid&searchNearby=false&sid=6CE36F5C961D4332A3DC16D3040AA0ED1646914152244&blockRedirect=true&ssrc=e&rf=43)  
 
 We need to get the information most relevant for the future analysis and visualizations/maps. In this sense, we get the information from the title of the restaurant, the rating of the restaurant, the number of reviews and finally we can get also the address. The results it will be a dataframe of four columns with this information.
@@ -39,7 +39,7 @@ We need to get the information most relevant for the future analysis and visuali
 ![Dataframe](https://github.com/SergiGuasch/Projects/blob/main/Data%20Analysis/Final%20Project/Images/restaurants.jpg)  
 *Fig 1. Dataframe obtained from the scrape*
 
-## 2 Data Cleaning: Standarization & Checking Null values  
+## Data Cleaning: Standarization & Checking Null values  
 
 Before the technical cleaning we could drop some restaurants bearing in mind their names, cause we have found some restaurants that they have the word Barcelona in their names. 
 
@@ -75,7 +75,7 @@ The next part of the project is focus on the restaurant with most reviews in Bar
 
 The restaurant in particular is Cervecería Catalana, and the website of its reviews are in the next url: [Link to the Cervecería Catalana in TripAdvisor website ](https://www.tripadvisor.es/Restaurant_Review-g187497-d782944-Reviews-Cerveceria_Catalana-Barcelona_Catalonia.html)
 
-## 6 Dealing with the webscrape  
+## Dealing with the webscrape  
 
 To get the dataframe with the information requested it has been necessary to scrape the first page of the review separately from the rest of the pages. So, once we get the 2 dataframes, we need to concatenate both to get just one dataframe to work.
 
@@ -86,7 +86,7 @@ To clean the dataframe we have to transform some strings into datetime. So to de
 ![Datetime](https://github.com/SergiGuasch/Projects/blob/main/Data%20Analysis/Final%20Project/Images/Time.jpg)  
 *Fig 4. Datetime algorithm*
 
-## 8 Sentiment Analysis
+## Sentiment Analysis
 
 The last part of the project is about the an analysis of the emotions of the sentences for each review. To do this it has been necessary implement the TextBlob library in order to get the polarity. From this one we can get some analysis to check the most positive polarity (close to 1), the most negative (close to -1), and also, to check the mean for the whole reviews from that restaurant. 
 
@@ -94,8 +94,8 @@ The results from this Sentiment Analysis are that the trend of the reviews looks
 ![SentimentAnalysis](https://github.com/SergiGuasch/Projects/blob/main/Data%20Analysis/Final%20Project/Images/SentAn.jpg)  
 *Fig 5. Polarity score per review*
 
-## 9 Lexical analysis  
-<a name="Lexical-analysis"/> 
+## Lexical analysis  
+<a name="lexical-analysis"/> 
 
 Finally, we have been created a list of tokens, the most used words in the reviews. We also exclude the non stop words, and visualizing the results in Tableau.  
 
