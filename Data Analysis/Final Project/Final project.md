@@ -35,7 +35,7 @@ The first step is to get the data from the next website:  [Link to the TripAdvis
 We need to get the information most relevant for the future analysis and visualizations/maps. In this sense, we get the information from the title of the restaurant, the rating of the restaurant, the number of reviews and finally we can get also the address. The results it will be a dataframe of four columns with this information.
 
 ![Dataframe](https://github.com/SergiGuasch/Projects/blob/main/Data%20Analysis/Final%20Project/Images/restaurants.jpg)  
-*Fig 1. Dataframe obtained from the scrape *
+*Fig 1. Dataframe obtained from the scrape*
 
 ## 2 Data Cleaning: Standarization & Checking Null values  
 
@@ -48,7 +48,7 @@ Next, we need to prepare the dataframe to be able to geocode the addresses with 
 Once we have the dataframe we can run the code with the geopy module to get the longitud and latitud variables. Also we can get a column locator to check if the the location got it from geopy algorithm is the same than the location from the address scraped. The dataframe resulting from the geocoding it gave us some null values but also some wrong addresses. To deal with this we could transform manually the null addresses to longitud latitud, but we decided to drop it. 
 
 ![Geocoding](https://github.com/SergiGuasch/Projects/blob/main/Data%20Analysis/Final%20Project/Images/Geocoding.jpg)  
-*Fig 1. Data distribution in King County by zipcode*
+*Fig 2. DataFrame with the location column as result from geocode*
 
 ## 4 Mapping 
 
