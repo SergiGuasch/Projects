@@ -59,7 +59,7 @@ Once we have the dataframe we can run the code with the geopy module to get the 
 
 To visualize the maps properly, we need to deal with some restaurants that they are in Barcelona province, but the geopy module has not been able to locate it in Barcelona city. To deal with this we can use some GIS tools (as spatial join) in order to select just the restaurants are inside the limits of Barcelona city, and aggregate in the polygon shape the attributes of our dataframe geocoded.
 
-The shapefile used is a neighborhood administrative boundary from the next website: 
+The shapefile used is a neighborhood administrative boundary from the next website:  [Link to the source ](https://github.com/martgnz/bcn-geodata/blob/master/barris/barris.geojson)  
 
 Then we can get the maps of the number of restaurants by neighborhood, or the maps of the mean rating restaurants by neighboordhood.
 These two maps have been built in QGIS.
