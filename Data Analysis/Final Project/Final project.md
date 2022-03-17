@@ -21,7 +21,7 @@ by [Sergi Alvarez Guasch](https://github.com/SergiGuasch) March 2022
 - [Mapping](#Mapping)  
 - [Scraping Cervecería Catalana](#Scraping-Cerveceria-Catalana)
 - [Dealing webscrape](https://github.com/SergiGuasch/Projects/edit/main/Data%20Analysis/Final%20Project/Final%20.md#Sentiment-Analysis)
-- [Sentiment Analysis](https://github.com/SergiGuasch/Projects/edit/main/Data%20Analysis/Final%20Project/Final%20.md#Sentiment-Analysis)
+- [Sentiment Analysis](#sentiment-analysis)
 - [Lexical analysis](#lexical-analysis)  
 - [Conclusions](#Conclusions)  
  
@@ -86,7 +86,8 @@ To clean the dataframe we have to transform some strings into datetime. So to de
 ![Datetime](https://github.com/SergiGuasch/Projects/blob/main/Data%20Analysis/Final%20Project/Images/Time.jpg)  
 *Fig 4. Datetime algorithm*
 
-## Sentiment Analysis
+## Sentiment Analysis 
+<a name="sentiment-analysis"/> 
 
 The last part of the project is about the an analysis of the emotions of the sentences for each review. To do this it has been necessary implement the TextBlob library in order to get the polarity. From this one we can get some analysis to check the most positive polarity (close to 1), the most negative (close to -1), and also, to check the mean for the whole reviews from that restaurant. 
 
