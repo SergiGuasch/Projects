@@ -16,8 +16,13 @@ by [Sergi Alvarez Guasch](https://github.com/SergiGuasch) March 2022
 
 - [Introduction](https://github.com/SergiGuasch/Projects/edit/main/Data%20Analysis/Final%20Project/Final%20project.md#Introduction-Purpose)
 - [Scraping TripAdvisor](https://github.com/SergiGuasch/Projects/edit/main/Data%20Analysis/Final%20Project/Final%20project.md#neural-network)
-- [Convolutional Network](https://github.com/SergiGuasch/Projects/edit/main/Data%20Analysis/Final%20Project/Final%20project.md#convolutional-network)
-- [Extra](https://github.com/SergiGuasch/Projects/edit/main/Data%20Analysis/Final%20Project/Final%20.md#Sentiment-Analysis)
+- [Data Cleaning](https://github.com/SergiGuasch/Projects/edit/main/Data%20Analysis/Final%20Project/Final%20project.md#convolutional-network)
+- [Geocoding](https://github.com/SergiGuasch/Projects/edit/main/Data%20Analysis/Final%20Project/Final%20.md#Sentiment-Analysis)
+- [Scraping Cervecería Catalana](https://github.com/SergiGuasch/Projects/edit/main/Data%20Analysis/Final%20Project/Final%20.md#Sentiment-Analysis)
+- [Dealing webscrape](https://github.com/SergiGuasch/Projects/edit/main/Data%20Analysis/Final%20Project/Final%20.md#Sentiment-Analysis)
+- [Sentiment Analysis](https://github.com/SergiGuasch/Projects/edit/main/Data%20Analysis/Final%20Project/Final%20.md#Sentiment-Analysis)
+- [Lexical analysis](https://github.com/SergiGuasch/Projects/edit/main/Data%20Analysis/Final%20Project/Final%20.md#Sentiment-Analysis) 
+- [Conclusions](https://github.com/SergiGuasch/Projects/edit/main/Data%20Analysis/Final%20Project/Final%20.md#Conclusions)
 
 ## Introduction Purpose  
 
@@ -73,9 +78,9 @@ The last part of the project is about the an analysis of the emotions of the sen
 
 The results from this Sentiment Analysis are that the trend of the reviews looks positive from a general point of view. Also, we have compared the results of this Sentiment Analysis with the mean of the reviews that the users have done. 
 
-## 9 Token words
+## 9 Lexical analysis
 
-Finally, we have been created a list of the most used words in the reviews, excluding non stop words, and visualizing the results in Tableau. 
+Finally, we have been created a list of tokens, the most used words in the reviews. We also exclude the non stop words, and visualizing the results in Tableau. 
 
 ## 10 Conclusions
 
