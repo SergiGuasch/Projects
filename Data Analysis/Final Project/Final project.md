@@ -14,7 +14,7 @@ by [Sergi Alvarez Guasch](https://github.com/SergiGuasch) March 2022
 
 ## Table of contents  
 
-- [Introduction](https://github.com/SergiGuasch/Projects/edit/main/Data%20Analysis/Final%20Project/Final%20project.md#Introduction-Purpose)
+- [Introduction](#Introduction)
 - [Scraping TripAdvisor](https://github.com/SergiGuasch/Projects/edit/main/Data%20Analysis/Final%20Project/Final%20project.md#neural-network)
 - [Data Cleaning](https://github.com/SergiGuasch/Projects/edit/main/Data%20Analysis/Final%20Project/Final%20project.md#convolutional-network)
 - [Geocoding](https://github.com/SergiGuasch/Projects/edit/main/Data%20Analysis/Final%20Project/Final%20.md#Sentiment-Analysis)
@@ -24,7 +24,8 @@ by [Sergi Alvarez Guasch](https://github.com/SergiGuasch) March 2022
 - [Lexical analysis](#Lexical-analysis)  
 - [Conclusions](#Conclusions)  
  
-## Introduction (Purpose)  
+## Introduction (Purpose)
+<a name="Introduction"/> 
 
 
 
