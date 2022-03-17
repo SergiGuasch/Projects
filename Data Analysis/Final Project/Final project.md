@@ -15,7 +15,7 @@ by [Sergi Alvarez Guasch](https://github.com/SergiGuasch) March 2022
 ## 1 Scraping the data from the TripAdvisor website  
 The first step is to get the data from the next website:  [Link to the TripAdvisor website ](https://www.tripadvisor.es/Search?q=Barcelona&searchSessionId=51C8E5CE54DA772C3953CD9DA7D126D31646914148673ssid&searchNearby=false&sid=6CE36F5C961D4332A3DC16D3040AA0ED1646914152244&blockRedirect=true&ssrc=e&rf=43)  
 
-We need to get the information most relevant for the future analysis and visualizations/maps. In that sense, we get the information from the title of the restaurant, the rating of the restaurant, the number of reviews and finnaly we can get also the address.
+We need to get the information most relevant for the future analysis and visualizations/maps. In this sense, we get the information from the title of the restaurant, the rating of the restaurant, the number of reviews and finally we can get also the address.
 
 ![Data_distribution](https://github.com/SergiGuasch/hangover/blob/main/images/1_Data_distribution.jpg)  
 *Fig 1. Data distribution in King County by zipcode*
