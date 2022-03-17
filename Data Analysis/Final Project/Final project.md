@@ -20,7 +20,7 @@ by [Sergi Alvarez Guasch](https://github.com/SergiGuasch) March 2022
 - [Geocoding](#Geocoding)
 - [Mapping](#Mapping)  
 - [Scraping Cervecería Catalana](#Scraping-Cerveceria-Catalana)
-- [Dealing webscrape](https://github.com/SergiGuasch/Projects/edit/main/Data%20Analysis/Final%20Project/Final%20.md#Sentiment-Analysis)
+- [Dealing webscrape](#dealing-webscrape)
 - [Sentiment Analysis](#sentiment-analysis)
 - [Lexical analysis](#lexical-analysis)  
 - [Conclusions](#Conclusions)  
@@ -76,6 +76,7 @@ The next part of the project is focus on the restaurant with most reviews in Bar
 The restaurant in particular is Cervecería Catalana, and the website of its reviews are in the next url: [Link to the Cervecería Catalana in TripAdvisor website ](https://www.tripadvisor.es/Restaurant_Review-g187497-d782944-Reviews-Cerveceria_Catalana-Barcelona_Catalonia.html)
 
 ## Dealing with the webscrape  
+<a name="dealing-webscrape"/> 
 
 To get the dataframe with the information requested it has been necessary to scrape the first page of the review separately from the rest of the pages. So, once we get the 2 dataframes, we need to concatenate both to get just one dataframe to work.
 
