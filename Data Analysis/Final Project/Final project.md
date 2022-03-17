@@ -21,18 +21,17 @@ by [Sergi Alvarez Guasch](https://github.com/SergiGuasch) March 2022
 - [Mapping](#Mapping)  
 - [Scraping Cervecería Catalana](#scraping-cerveceria-catalana)
 - [Dealing webscrape](#dealing-webscrape)
+- [Cleaning reviews](#cleaning-reviews)
 - [Sentiment Analysis](#sentiment-analysis)
 - [Lexical analysis](#lexical-analysis)  
 - [Conclusions](#Conclusions)  
  
-## Introduction (Purpose)
-<a name="Introduction"/> 
+## Introduction (Purpose)  <a name="Introduction"/> 
 
 
 
 
 ## Scraping the data from the TripAdvisor website  <a name="Scraping"/>
-
 
 The first step is to get the data from the next website:  [Link to the TripAdvisor website ](https://www.tripadvisor.es/Search?q=Barcelona&searchSessionId=51C8E5CE54DA772C3953CD9DA7D126D31646914148673ssid&searchNearby=false&sid=6CE36F5C961D4332A3DC16D3040AA0ED1646914152244&blockRedirect=true&ssrc=e&rf=43)  
 
@@ -48,15 +47,16 @@ Before the technical cleaning we could drop some restaurants bearing in mind the
 
 Next, we need to prepare the dataframe to be able to geocode the addresses with the geopy module. Doing the webscraping there aren't null values, but we have to standarize some names in the address, make it lower case and delete some special characters.  
 
-## Geocoding  <a name="#Geocoding"/> 
+## Geocoding  
+<a name="#Geocoding"/> 
 
 Once we have the dataframe we can run the code with the geopy module to get the longitud and latitud variables. Also we can get a column locator to check if the the location got it from geopy algorithm is the same than the location from the address scraped. The dataframe resulting from the geocoding it gave us some null values but also some wrong addresses. To deal with this we could transform manually the null addresses to longitud latitud, but we decided to drop it. 
 
 ![Geocoding](https://github.com/SergiGuasch/Projects/blob/main/Data%20Analysis/Final%20Project/Images/Geocoding.jpg)  
 *Fig 2. DataFrame with the location column as result from geocode*
 
-## Mapping  <a name="#Mapping"/>  
-
+## Mapping  
+<a name="#Mapping"/>  
 
 To visualize the maps properly, we need to deal with some restaurants that they are in Barcelona province, but the geopy module has not been able to locate it in Barcelona city. To deal with this we can use some GIS tools (as spatial join) in order to select just the restaurants are inside the limits of Barcelona city, and aggregate in the polygon shape the attributes of our dataframe geocoded.
 
@@ -80,7 +80,7 @@ The restaurant in particular is Cervecería Catalana, and the website of its rev
 
 To get the dataframe with the information requested it has been necessary to scrape the first page of the review separately from the rest of the pages. So, once we get the 2 dataframes, we need to concatenate both to get just one dataframe to work.
 
-## Cleaning the reviews dataframe  
+## Cleaning the reviews dataframe  <a name="cleaning-reviews"/> 
 
 To clean the dataframe we have to transform some strings into datetime. So to deal with this, we need to use the time library. Also we need to extract the numbers from rating columns using an extract method.
 
