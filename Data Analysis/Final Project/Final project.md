@@ -41,8 +41,8 @@ We need to get the information most relevant for the future analysis and visuali
 ![Dataframe](https://github.com/SergiGuasch/Projects/blob/main/Data%20Analysis/Final%20Project/Images/restaurants.jpg)  
 *Fig 1. Dataframe obtained from the scrape*
 
-## Data Cleaning: Standarization & Checking Null values 
-<a name="Data-cleaning"/>
+## Data Cleaning: Standarization & Checking Null values <a name="Data-cleaning"/>
+
 
 Before the technical cleaning we could drop some restaurants bearing in mind their names, cause we have found some restaurants that they have the word Barcelona in their names. 
 
