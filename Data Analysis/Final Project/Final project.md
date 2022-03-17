@@ -99,11 +99,13 @@ The results from this Sentiment Analysis are that the trend of the reviews looks
 Finally, we have been created a list of tokens, the most used words in the reviews. We also exclude the non stop words, and visualizing the results in Tableau.  
 
 ![LexicalAnalysis](https://github.com/SergiGuasch/Projects/blob/main/Data%20Analysis/Final%20Project/Images/words.jpg)
-*Fig 5. Most frquency words in Cervecería Catalana reviews*
+*Fig 5. Most frequency words in Cervecería Catalana reviews*
  
 ## Conclusions  <a name="Conclusions"/>   
 
-scsddcdsf
+As results from the different analysis extracted from the TripAdvisor we can conclude that the major density of restaurants in Barcelona are located in the neighborhood "la Dreta de l'Eixample", and the neighborhoods that surround it. Also we can see that the general rating in Barcelona is about 4 of 5 stars, which means a notable score.
+
+On the other hand 
   
 
 
