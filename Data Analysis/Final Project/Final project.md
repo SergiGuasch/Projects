@@ -22,8 +22,8 @@ by [Sergi Alvarez Guasch](https://github.com/SergiGuasch) March 2022
 - [Dealing webscrape](https://github.com/SergiGuasch/Projects/edit/main/Data%20Analysis/Final%20Project/Final%20.md#Sentiment-Analysis)
 - [Sentiment Analysis](https://github.com/SergiGuasch/Projects/edit/main/Data%20Analysis/Final%20Project/Final%20.md#Sentiment-Analysis)
 - [Lexical analysis](https://github.com/SergiGuasch/Projects/edit/main/Data%20Analysis/Final%20Project/Final%20.md#Sentiment-Analysis) 
-- [Conclusions](https://github.com/SergiGuasch/Projects/edit/main/Data%20Analysis/Final%20Project/Final%20.md#Conclusions)
-
+- [Conclusions](#Conclusions)  
+ 
 ## Introduction (Purpose)  
 
 
@@ -96,6 +96,7 @@ Finally, we have been created a list of tokens, the most used words in the revie
 ![LexicalAnalysis](https://github.com/SergiGuasch/Projects/blob/main/Data%20Analysis/Final%20Project/Images/words.jpg)
 *Fig 5. Most frquency words in Cervecería Catalana reviews*
 
+<a name="Conclusions"/>
 ## Conclusions  
 
   
