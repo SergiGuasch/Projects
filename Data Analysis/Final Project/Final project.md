@@ -16,7 +16,7 @@ by [Sergi Alvarez Guasch](https://github.com/SergiGuasch) March 2022
 
 - [Introduction](#Introduction)
 - [Scraping TripAdvisor](https://github.com/SergiGuasch/Projects/edit/main/Data%20Analysis/Final%20Project/Final%20project.md#neural-network)
-- [Data Cleaning](https://github.com/SergiGuasch/Projects/edit/main/Data%20Analysis/Final%20Project/Final%20project.md#convolutional-network)
+- [Data Cleaning](#data-cleaning)
 - [Geocoding](#Geocoding)
 - [Mapping](#Mapping)  
 - [Scraping Cervecería Catalana](#scraping-cerveceria-catalana)
@@ -39,7 +39,8 @@ We need to get the information most relevant for the future analysis and visuali
 ![Dataframe](https://github.com/SergiGuasch/Projects/blob/main/Data%20Analysis/Final%20Project/Images/restaurants.jpg)  
 *Fig 1. Dataframe obtained from the scrape*
 
-## Data Cleaning: Standarization & Checking Null values  
+## Data Cleaning: Standarization & Checking Null values 
+<a name="#data-cleaning "/>
 
 Before the technical cleaning we could drop some restaurants bearing in mind their names, cause we have found some restaurants that they have the word Barcelona in their names. 
 
