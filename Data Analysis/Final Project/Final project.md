@@ -6,9 +6,11 @@
 # Webscraping and Sentiment Analysis from reviews of Barcelona restaurants from TripAdvisor 🍽️ ⭐ 🦉  
 by [Sergi Alvarez Guasch](https://github.com/SergiGuasch) March 2022  
 <br/><br/>
- - **Code:** Jupyter Notebook - [Link to code folder](https://github.com/SergiGuasch/hangover/blob/main/Mid-project.ipynb) 
- - **Tableau:** Tableau Link - [Link to Tableau file](https://public.tableau.com/app/profile/sergi4264/viz/Hangover_16448685754500/Dashboard1)
- - **SQL:** MySQL file - [Link to MySQL file](https://github.com/SergiGuasch/hangover/blob/main/SQL_hangover.sql)
+ - **Code:** Jupyter Notebook1 - [Link to code folder](https://github.com/SergiGuasch/Projects/blob/main/Data%20Analysis/Final%20Project/Restaurants.ipynb)
+ - **Code:** Jupyter Notebook2 - [Link to code folder](https://github.com/SergiGuasch/Projects/blob/main/Data%20Analysis/Final%20Project/Full_Reviews.ipynb) 
+ - **Tableau:** Tableau Link1 - [Link to Tableau file](https://public.tableau.com/app/profile/sergi4264/viz/TripAdvisor_Restaurants/Heatmap)
+ - **Tableau:** Tableau Link2 - [Link to Tableau file](https://public.tableau.com/app/profile/sergi4264/viz/TripAdvisor_Reviews/Words)
+ - **Presentation:** Powerpoint - [Link to code folder](https://github.com/SergiGuasch/Projects/blob/main/Data%20Analysis/Final%20Project/TripAdvisor.pptx)
 
 ## 1 Importing and understanding the data
 The database is composed of 21,597 rows (each representing a house in the King County in Washington state) and 21 columns. Additionally, we have added two new columns, one that reflects the year in which the house was built or reformed and one that reflects the distance from the center (the most expensive area).
