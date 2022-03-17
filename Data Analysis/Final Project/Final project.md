@@ -91,12 +91,13 @@ To clean the dataframe we have to transform some strings into datetime. So to de
 The last part of the project is about the an analysis of the emotions of the sentences for each review. To do this it has been necessary implement the TextBlob library in order to get the polarity. From this one we can get some analysis to check the most positive polarity (close to 1), the most negative (close to -1), and also, to check the mean for the whole reviews from that restaurant. 
 
 The results from this Sentiment Analysis are that the trend of the reviews looks positive from a general point of view. Also, we have compared the results of this Sentiment Analysis with the mean of the reviews that the users have done. 
+
 ![SentimentAnalysis](https://github.com/SergiGuasch/Projects/blob/main/Data%20Analysis/Final%20Project/Images/SentAn.jpg)  
 *Fig 5. Polarity score per review*
 
 ## Lexical analysis  <a name="lexical-analysis"/>  
  
-Finally, we have been created a list of tokens, the most used words in the reviews. We also exclude the non stop words, and visualizing the results in Tableau.  
+Finally, as an extra feature, we have been created a list of tokens, the most used words in the reviews. We also exclude the non stop words, and visualizing the results in Tableau.  
 
 ![LexicalAnalysis](https://github.com/SergiGuasch/Projects/blob/main/Data%20Analysis/Final%20Project/Images/words.jpg)
 *Fig 5. Most frequency words in Cervecería Catalana reviews*
@@ -105,7 +106,7 @@ Finally, we have been created a list of tokens, the most used words in the revie
 
 As results from the different analysis extracted from the TripAdvisor we can conclude that the major density of restaurants in Barcelona are located in the neighborhood "la Dreta de l'Eixample", and the neighborhoods that surround it. Also we can see that the general rating in Barcelona is about 4 of 5 stars, which means a notable score.
 
-On the other hand 
+On the other hand, analysing the reviews extracted from the TripAdvisor website of Cervecería Catalana, we can appreciate a positive general trend of the whole reviews. Comparing this result with the mean ratings from the total number of reviews posted for this restaurant, we can also say that the model is not so accurate. However, in both cases the percentatge of positive reviews indicates that Cerveceria Catalana is a recommendable restaurant for most of the people. 
   
 
 
