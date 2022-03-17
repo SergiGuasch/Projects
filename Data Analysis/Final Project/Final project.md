@@ -47,6 +47,16 @@ The next part of the project is focus on the restaurant with most reviews in Bar
 
 The restaurant in particular is Cervecería Catalana, and the website of its reviews are in the next url: [Link to the Cervecería Catalana in TripAdvisor website ](https://www.tripadvisor.es/Restaurant_Review-g187497-d782944-Reviews-Cerveceria_Catalana-Barcelona_Catalonia.html)
 
+## 6 Dealing with the webscrape  
+
+To get the dataframe with the information requested it has been necessary to scrape the first page of the review separately from the rest of the pages. So, once we get the 2 dataframes, we need to concatenate both to get just one dataframe to work.
+
+## 7 Cleaning the dataframe  
+
+To clean the dataframe we have to transform some strings into datetime. So to deal with this, we need to use the time library. Also we need to extract the numbers from rating columns using an extract method.
+
+## 8 
+
 ### 2.1. Checking for duplicated Values
 Our approach to finding duplicates values was first of all checking the reason why a same id was repeated. Due to the fact that we only had data from 2014 and 2015, probably the only reason why a house may be repeated it's because it was sold two times in this period and, therefore, two different prices (but the independent variables remained the same.) That's why we decided to only keep the last date transaction info since it's the one that recaps better the actual price of that house.
 
