@@ -52,7 +52,7 @@ Once we have the dataframe we can run the code with the geopy module to get the 
 ![Geocoding](https://github.com/SergiGuasch/Projects/blob/main/Data%20Analysis/Final%20Project/Images/Geocoding.jpg)  
 *Fig 2. DataFrame with the location column as result from geocode*
 
-## 4 Mapping 
+## Mapping 
 <a name="#Mapping"/> 
 
 To visualize the maps properly, we need to deal with some restaurants that they are in Barcelona province, but the geopy module has not been able to locate it in Barcelona city. To deal with this we can use some GIS tools (as spatial join) in order to select just the restaurants are inside the limits of Barcelona city, and aggregate in the polygon shape the attributes of our dataframe geocoded.
