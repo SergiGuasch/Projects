@@ -19,7 +19,7 @@ by [Sergi Alvarez Guasch](https://github.com/SergiGuasch) March 2022
 - [Data Cleaning](https://github.com/SergiGuasch/Projects/edit/main/Data%20Analysis/Final%20Project/Final%20project.md#convolutional-network)
 - [Geocoding](#Geocoding)
 - [Mapping](#Mapping)  
-- [Scraping Cervecería Catalana](#Scraping-Cerveceria-Catalana)
+- [Scraping Cervecería Catalana](#scraping-cerveceria-catalana)
 - [Dealing webscrape](#dealing-webscrape)
 - [Sentiment Analysis](#sentiment-analysis)
 - [Lexical analysis](#lexical-analysis)  
@@ -69,7 +69,7 @@ Next step is to built a density map with Tableau, from the csv file that has bee
 *Fig 3. Density map*
 
 ## Scraping Cervecería Catalana  
-<a name="#Scraping-Cerveceria-Catalana"/>  
+<a name="#scraping-cerveceria-catalana"/>  
 
 The next part of the project is focus on the restaurant with most reviews in Barcelona. So, from this one we have also scrapped all its reviews bearing in mind the description of the review, the date of the review and the rating acording to the reviews of the users of TripAdvisor. 
 
