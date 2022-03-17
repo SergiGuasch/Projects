@@ -95,10 +95,11 @@ Finally, we have been created a list of tokens, the most used words in the revie
 
 ![LexicalAnalysis](https://github.com/SergiGuasch/Projects/blob/main/Data%20Analysis/Final%20Project/Images/words.jpg)
 *Fig 5. Most frquency words in Cervecería Catalana reviews*
-
-<a name="Conclusions"/>  
+ 
 ## Conclusions  
+<a name="Conclusions"/> 
 
+scsddcdsf
   
 
 
