@@ -1,10 +1,10 @@
 ![Ironhack](https://github.com/SergiGuasch/sergiguasch/blob/main/labs/week4/Lab2/Ironhack.jpg)  
-# Mid bootcamp project  
+# Final project  
 
 -------
 
-# Case Study: Regression/ Predicting the price of houses :moneybag: :euro: :house:
-by [Sergi Alvarez Guasch](https://github.com/SergiGuasch), [Marc Puyol Iniesta](https://github.com/MpiPuin12) February 2022
+# Webscraping and Sentiment Analysis from reviews of TripAdvisor 🍽️: ⭐: 🦉:  
+by [Sergi Alvarez Guasch](https://github.com/SergiGuasch) March 2022  
 <br/><br/>
  - **Code:** Jupyter Notebook - [Link to code folder](https://github.com/SergiGuasch/hangover/blob/main/Mid-project.ipynb) 
  - **Tableau:** Tableau Link - [Link to Tableau file](https://public.tableau.com/app/profile/sergi4264/viz/Hangover_16448685754500/Dashboard1)
