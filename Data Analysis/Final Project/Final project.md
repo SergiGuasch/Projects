@@ -48,16 +48,15 @@ Before the technical cleaning we could drop some restaurants bearing in mind the
 
 Next, we need to prepare the dataframe to be able to geocode the addresses with the geopy module. Doing the webscraping there aren't null values, but we have to standarize some names in the address, make it lower case and delete some special characters.  
 
-## Geocoding
-<a name="#Geocoding"/> 
+## Geocoding  <a name="#Geocoding"/> 
 
 Once we have the dataframe we can run the code with the geopy module to get the longitud and latitud variables. Also we can get a column locator to check if the the location got it from geopy algorithm is the same than the location from the address scraped. The dataframe resulting from the geocoding it gave us some null values but also some wrong addresses. To deal with this we could transform manually the null addresses to longitud latitud, but we decided to drop it. 
 
 ![Geocoding](https://github.com/SergiGuasch/Projects/blob/main/Data%20Analysis/Final%20Project/Images/Geocoding.jpg)  
 *Fig 2. DataFrame with the location column as result from geocode*
 
-## Mapping 
-<a name="#Mapping"/> 
+## Mapping  <a name="#Mapping"/>  
+
 
 To visualize the maps properly, we need to deal with some restaurants that they are in Barcelona province, but the geopy module has not been able to locate it in Barcelona city. To deal with this we can use some GIS tools (as spatial join) in order to select just the restaurants are inside the limits of Barcelona city, and aggregate in the polygon shape the attributes of our dataframe geocoded.
 
@@ -71,15 +70,13 @@ Next step is to built a density map with Tableau, from the csv file that has bee
 ![Density](https://github.com/SergiGuasch/Projects/blob/main/Data%20Analysis/Final%20Project/Images/Density.jpg)  
 *Fig 3. Density map*
 
-## Scraping Cervecería Catalana  
-<a name="scraping-cerveceria-catalana"/>  
+## Scraping Cervecería Catalana  <a name="scraping-cerveceria-catalana"/>   
 
 The next part of the project is focus on the restaurant with most reviews in Barcelona. So, from this one we have also scrapped all its reviews bearing in mind the description of the review, the date of the review and the rating acording to the reviews of the users of TripAdvisor. 
 
 The restaurant in particular is Cervecería Catalana, and the website of its reviews are in the next url: [Link to the Cervecería Catalana in TripAdvisor website ](https://www.tripadvisor.es/Restaurant_Review-g187497-d782944-Reviews-Cerveceria_Catalana-Barcelona_Catalonia.html)
 
-## Dealing with the webscrape  
-<a name="dealing-webscrape"/> 
+## Dealing with the webscrape  <a name="dealing-webscrape"/>   
 
 To get the dataframe with the information requested it has been necessary to scrape the first page of the review separately from the rest of the pages. So, once we get the 2 dataframes, we need to concatenate both to get just one dataframe to work.
 
@@ -90,25 +87,22 @@ To clean the dataframe we have to transform some strings into datetime. So to de
 ![Datetime](https://github.com/SergiGuasch/Projects/blob/main/Data%20Analysis/Final%20Project/Images/Time.jpg)  
 *Fig 4. Datetime algorithm*
 
-## Sentiment Analysis 
-<a name="sentiment-analysis"/> 
-
+## Sentiment Analysis  <a name="sentiment-analysis"/> 
+ 
 The last part of the project is about the an analysis of the emotions of the sentences for each review. To do this it has been necessary implement the TextBlob library in order to get the polarity. From this one we can get some analysis to check the most positive polarity (close to 1), the most negative (close to -1), and also, to check the mean for the whole reviews from that restaurant. 
 
 The results from this Sentiment Analysis are that the trend of the reviews looks positive from a general point of view. Also, we have compared the results of this Sentiment Analysis with the mean of the reviews that the users have done. 
 ![SentimentAnalysis](https://github.com/SergiGuasch/Projects/blob/main/Data%20Analysis/Final%20Project/Images/SentAn.jpg)  
 *Fig 5. Polarity score per review*
 
-## Lexical analysis  
-<a name="lexical-analysis"/> 
-
+## Lexical analysis  <a name="lexical-analysis"/>  
+ 
 Finally, we have been created a list of tokens, the most used words in the reviews. We also exclude the non stop words, and visualizing the results in Tableau.  
 
 ![LexicalAnalysis](https://github.com/SergiGuasch/Projects/blob/main/Data%20Analysis/Final%20Project/Images/words.jpg)
 *Fig 5. Most frquency words in Cervecería Catalana reviews*
  
-## Conclusions  
-<a name="Conclusions"/> 
+## Conclusions  <a name="Conclusions"/>   
 
 scsddcdsf
   
