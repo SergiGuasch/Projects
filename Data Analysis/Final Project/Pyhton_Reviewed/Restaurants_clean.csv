@@ -1,0 +1,992 @@
+﻿,name,number_reviews,rating,address,city
+0,BelleBuon,2959,5.0,Travessera de Gràcia 441  Barcelona,Barcelona
+1,Fàbrica Moritz Barcelona,2887,4.0,Ronda Sant Antoni 41  Barcelona,Barcelona
+2,Ciudad Condal,10184,4.5,Rambla de Catalunya 18 Barcelona,Barcelona
+3,La Peninsular,2878,4.5,Carrer Del Mar 29 Barcelona,Barcelona
+4,Bella Italia,1394,5.0,Carrer de Roger de Lluria 87 Barcelona,Barcelona
+5,Thai Barcelona | Royal Cuisine,1655,4.0,Diputació 273  Barcelona,Barcelona
+6,Ramen-ya Hiro,1212,4.5,Carrer Girona 164  Barcelona,Barcelona
+7,Le Romane,2226,5.0,Carrer Muntaner 103  Barcelona,Barcelona
+8,La Patsa Lab,1779,5.0,Carrer  Casanova 94  Barcelona,Barcelona
+9,Cervecería Catalana,12767,4.5,Carrer de Mallorca 236 Barcelona,Barcelona
+10,Mirabé,1157,4.5,Carrer  Manuel Arnús 2 Barcelona,Barcelona
+11,Flax & Kale,5632,4.5,Carrer dels Tallers 74  Barcelona,Barcelona
+12,Can Paixano (La Xampanyeria),2747,4.5,Carrer  de la Reina Cristina  7  Barcelona,Barcelona
+13,La Flauta,3515,4.5,Carrer  D aribau 23 Barcelona,Barcelona
+14,Les Quinze Nits,5898,3.5,Plaça Reial 6 Barcelona,Barcelona
+15,Piazze D'Italia,1956,4.5,Carrer de Casanova 94 Barcelona,Barcelona
+16,Can Culleretes,1916,4.0,Carrer  Quintana 5 Ciutat Vella Barcelona,Barcelona
+17,4 Gats,4796,3.5,Carrer de Montsio 3 Barcelona,Barcelona
+18,Teresa Carles,5043,4.5,Jovellanos 2 Barcelona,Barcelona
+19,Can Cortada,1485,4.5,Avinguda de l Estatut de Catalunya s n Barcelona,Barcelona
+20,Bar Tomas,848,3.5,Major de Sarrià 49  Barcelona,Barcelona
+21,Casa Lolea Barcelona,2681,4.5,Sant Pere Mes Alt 49 Barcelona,Barcelona
+22,Via Veneto,616,4.5,Ganduxer 10 12  Barcelona,Barcelona
+23,9 Reinas Barcelona,1503,4.5,Carrer de València 267 Barcelona,Barcelona
+24,Koku Kitchen Ramen,827,4.5,Carrer  Carabassa 19  Barcelona,Barcelona
+25,PETIT BANGKOK,888,4.5,08006  Barcelona,Barcelona
+26,7 Portes,8858,4.0,Passeig Isabel II 14  Barcelona,Barcelona
+27,Raco D'en Cesc,594,4.5,Carrer  Diputacio 201 Barcelona,Barcelona
+28,Bar Cañete,2899,4.5,Carrer de la Unió 17 Barcelona,Barcelona
+29,Don Kilo Restaurant,1687,5.0,Carrer de Girona 133  Barcelona,Barcelona
+30,Casa Amàlia 1950,711,5.0,Passatge Mercat 4  Barcelona,Barcelona
+31,Shunka,1122,4.5,Carrer Sagristans 5  Barcelona,Barcelona
+32,Carlota Akaneya,1345,4.5,Pintor Fortuny 32  Barcelona,Barcelona
+33,Vinitus,3877,4.5,Carrer de Consell de Cent 333 Barcelona,Barcelona
+34,Babula Bar 1937,1054,5.0,Carrer  Pau Claris 139  Barcelona,Barcelona
+35,Paco Meralgo,2522,4.5,Carrer  Muntaner 171  Barcelona,Barcelona
+36,Season Restaurant Barcelona,558,4.5,Carrer d Aribau 125 Barcelona,Barcelona
+37,Tapeo,3162,4.5,Montcada 29 Barcelona,Barcelona
+38,Restaurante La Boqueria,2270,4.5,Carrer de la Boqueria Numero 17  Barcelona,Barcelona
+39,El Xampanyet,2716,4.5,Carrer de Montcada 22 Barcelona,Barcelona
+40,Restaurante Parrilla Alfonsina,1566,4.5,Diputacio 379 Barcelona,Barcelona
+41,La Tasqueta De Blai,2763,4.5,Carrer de Blai 15 17 Barcelona,Barcelona
+42,Viana,4753,5.0,Carrer del Vidre 7 Barcelona,Barcelona
+43,Blu Bar,1027,5.0,Rambla de Poblenou 11 Barcelona,Barcelona
+44,El Pachuco,1022,4.5,Sant Pau 110  Barcelona,Barcelona
+45,Quimet & Quimet,2080,4.5,Poeta Cabanyes 25  Barcelona,Barcelona
+46,9 Nine,1637,4.5,Carrer Valencia 334  Barcelona,Barcelona
+47,El Viti Taberna,874,4.5,Passeig Sant Joan 62 Barcelona,Barcelona
+48,Restaurante Kurai,687,4.5,Carrer  Tarragona 99  Barcelona,Barcelona
+49,La Gastronómica Burgers,1341,5.0,Carrer Vilamarí 9 15  Barcelona,Barcelona
+50,Marina Bay Barcelona,1987,4.0,Carrer de la Marina 1921 Barcelona,Barcelona
+51,Ándele París,717,5.0,Carrer de París 147 Barcelona,Barcelona
+52,Anita Flow,1963,5.0,Consell de Cent 413 Barcelona,Barcelona
+53,Uma,1133,5.0,Carrer de Mallorca 275 Barcelona,Barcelona
+54,Robata,1367,4.5,Enric Granados 55  Barcelona,Barcelona
+55,Escriba Gran Via,970,4.5,Gran Via de les Corts Catalanes 546 Barcelona,Barcelona
+56,La Carmelina,941,5.0,Av  Litoral Nova Icaria 620 Barcelona,Barcelona
+57,Chaka Khan,2226,5.0,Carrer Hospital 104 Barcelona,Barcelona
+58,El Jardinet D'Aribau,767,4.5,Carrer De Aribau 133 Barcelona,Barcelona
+59,Pepito Restaurante,1427,4.5,Pasaje Domingo 3  Barcelona,Barcelona
+60,Tlaxcal,909,4.5,Comercio 27  Barcelona,Barcelona
+61,Bacoa,2676,4.5,Marques de L Argentera 1 Bis Barcelona,Barcelona
+62,Vivo Tapas,2263,4.5,Carrer del Rosselló 255  Barcelona,Barcelona
+63,El Vaso de Oro,1398,4.5,Balboa 6 Barcelona,Barcelona
+64,Bacoa,1762,4.5,Ronda Universidad 31  Barcelona,Barcelona
+65,Argentinísimo,636,4.5,Carrer  Casanova 70  Barcelona,Barcelona
+66,Bar Xapako,901,5.0,Consell de Cent 411  Barcelona,Barcelona
+67,Bodega Biarritz 1881,4530,4.5,Carrer Vidre 8 Barcelona,Barcelona
+68,Gusto,1729,4.5,Carrer  de Rossello 108 Barcelona,Barcelona
+69,Vai Moana,1685,4.5,Avenida Litoral S N  Barcelona,Barcelona
+70,Rosa Negra Barcelona,1588,4.0,Via Laietana 46  Barcelona,Barcelona
+71,La Pastisseria Barcelona,810,4.5,Carrer aragò 228  Barcelona,Barcelona
+72,Pizzeria Da Nanni Barcelona,1951,5.0,Carrer  Llibreteria 10  Barcelona,Barcelona
+73,Bodega Biarritz,4583,5.0,Nou de San Francesc 7  Barcelona,Barcelona
+74,Bodega Vasconia,1494,4.5,Gignas 13  Barcelona,Barcelona
+75,Taktika Berri,794,4.0,Carrer Valencia 169 Barcelona,Barcelona
+76,N.A.P. Neapolitan Authentic Pizza,1489,4.0,Avinguda Francesc Cambó 30 y Carrer Baluard Barcelona,Barcelona
+77,L’ Amfora Barcelona,1941,4.5,Avenida del Parallel 184 Barcelona,Barcelona
+78,Cecconi's Barcelona,619,4.5,Passeig de Colom  Barcelona,Barcelona
+79,Colom,7613,4.5,Escudellers 33 Barcelona,Barcelona
+80,Bar del Pla,1656,4.0,Carrer Montcada num  2 Barcelona,Barcelona
+81,Maitea Taberna,1302,4.5,Carrer  Casanova 155 Barcelona,Barcelona
+82,La Cova Fumada,1395,4.5,Carrer  Baluard 56 Barcelona,Barcelona
+83,Restaurante Arume,5202,4.5,Carrer  Botella 11 13 Barcelona,Barcelona
+84,Koy Shunka,1444,4.5,Carrer de Copons 7 Barcelona,Barcelona
+85,Teòric Taverna Gastronòmica,994,5.0,Carrer de Bailen 117 Barcelona,Barcelona
+86,Yakumanka,426,4.5,Carrer  Valencia 207  Barcelona,Barcelona
+87,Sports Bar Italian Food - C. Ample,1022,4.5,Carrer Ample 51 Barcelona,Barcelona
+88,Torre d'Alta Mar,1433,4.0,Passeig Joan de Borbo 88  Barcelona,Barcelona
+89,Swagatam Bar-Restaurant Hindu,1007,4.5,Carrer de Sant Agusti 10 Barcelona,Barcelona
+90,Parco,737,4.0,Jardines de Gracia   Al Final de la Passeig de Gracia  Barcelona,Barcelona
+91,Arcano,3589,4.5,Carrer dels Mercaders 10 Barcelona,Barcelona
+92,Mirablau,1180,4.0,Plaza Doctor Andreu S N  Barcelona,Barcelona
+93,Botafumeiro,4473,4.0,Carrer Gran de Gràcia 81 Barcelona,Barcelona
+94,La Fonda,6520,4.0,Carrer dels Escudellers 10 Barcelona,Barcelona
+95,Eixampeling Brunch Café & Bar,1074,5.0,Diputacion 158  Barcelona,Barcelona
+96,La Bella Napoli di Raffaele,1155,4.0,Carrer de Margarit 12 14 Barcelona,Barcelona
+97,Gilda by Belgious,1410,4.5,Carrer  Ample 34 Barcelona,Barcelona
+98,Don Kilo Gourmet,389,5.0,Carrer Corsega 398  Barcelona,Barcelona
+99,Oporto Restaurante,901,4.5,Carrer Sardenya 296 Barcelona,Barcelona
+100,König Barcelona Centro,957,4.0,Rambla de Catalunya 5 Barcelona,Barcelona
+101,bicos,483,4.5,Avenida Diagonal 287  Barcelona,Barcelona
+102,Ristorante Margherita,2439,4.5,Carrer del Rosselló 253 Barcelona,Barcelona
+103,Can Xurrades Gastronomic,551,4.5,Casanova 212 Barcelona,Barcelona
+104,Ikibana Sarriá,999,4.0,Carrer  Doctor Fleming 11 Barcelona,Barcelona
+105,El Quim de la Boqueria,1593,4.5,Rambles 91  Barcelona,Barcelona
+106,Restaurant Montiel,2531,4.5,Carrer  Flassaders 19  Barcelona,Barcelona
+107,Restaurante Lasarte,1093,4.5,Carrer  Mallorca 259 Barcelona,Barcelona
+108,Giorgio Barcelona,745,4.5,Carrer  Ausias Marc 3 Barcelona,Barcelona
+109,Copasetic Barcelona,890,4.5,Diputacio 55 Barcelona,Barcelona
+110,Boca Grande,2231,4.0,Passatge de la Concepcio 12  Barcelona,Barcelona
+111,Restaurant Etapes,1226,4.5,Enric Granados 10 Barcelona,Barcelona
+112,Telefèric,1397,4.5,Plaza Doctor Letamendi 27 Barcelona,Barcelona
+113,Makamaka,2124,4.5,Passeig de Joan de Borbo 76 Barcelona,Barcelona
+114,Can Dendê,963,4.5,Carrer Ciutat de Granada 44 Barcelona,Barcelona
+115,Bo Kaap,799,4.5,Paseo Maritimo s n Playa de Sant Miquel Barcelona,Barcelona
+116,Mako,299,4.5,Consell de Cent 255  Barcelona,Barcelona
+117,Asador de Aranda Tibidabo,1719,4.0,Av  del Tibidabo 31  Barcelona,Barcelona
+118,Terrazza Ravello,828,4.5,Plaza Pau Vila 1 Barcelona,Barcelona
+119,El Dorado Chicken,652,4.5,Carrer De Balmes 122 Barcelona,Barcelona
+120,Tandoori Nights,948,4.5,Carrer Carretes 44  Barcelona,Barcelona
+121,The Benedict,1507,4.5,Carrer D en Gignas 23  Barcelona,Barcelona
+122,Recasens,1149,4.0,Rambla del Poblenou 102  Barcelona,Barcelona
+123,Taller de Tapas - Rambla Catalunya,4024,4.0,Rambla Catalunya 49  Barcelona,Barcelona
+124,Chen Ji,675,4.0,Ali Bei 65  Barcelona,Barcelona
+125,Pura Brasa Arenas,2757,4.0,Gran Via de les Corts Catalanes 373 385  Barcelona,Barcelona
+126,La Alcoba Azul,1330,4.5,Carrer de Salomó ben Adret  Barcelona,Barcelona
+127,Foc i Oli,993,4.5,Carrer Aribau 91 Barcelona,Barcelona
+128,O' Retorno Restaurant,909,4.0,Comte D urgell 168 Barcelona,Barcelona
+129,Mayura,1172,4.0,Carrer Girona 57 Barcelona,Barcelona
+130,Mont Bar,1057,4.5,Diputacio 220  Barcelona,Barcelona
+131,Sushifresh,483,4.5,Via augusta 65 local 1  Barcelona,Barcelona
+132,Pulpería Can Lampazas,870,4.0,Avinguda del Paral lel 159 Barcelona,Barcelona
+133,murivecchi,987,4.0,Carrer  princesa 59  Barcelona,Barcelona
+134,Irati Taverna Basca,1940,4.5,Carrer del Cardenal Casañas 17 Barcelona,Barcelona
+135,Tapa Tapa,3783,3.0,Passeig de Gracia  Barcelona,Barcelona
+136,"La Tagliatella C/ Josep Tarradellas, Barcelona",1253,3.5,Josep Tarradellas 116  Barcelona,Barcelona
+137,Velodromo,1055,4.0,Muntaner 213  Barcelona,Barcelona
+138,Chilango's Taqueria Barcelona,502,4.5,Carrer Nou de la Rambla 95  Barcelona,Barcelona
+139,Restaurante Los Caracoles,4869,3.5,Carrer d Escudellers 14 Barcelona,Barcelona
+140,1881 per Sagardi,1041,4.0,Plaça de Pau Vila 3 Barcelona,Barcelona
+141,Merendero de la Mari,1326,3.5,Placa Pau Vila 1 Port Vell  Barcelona,Barcelona
+142,Dos Palillos,1284,4.0,Elisabets 9 Barcelona,Barcelona
+143,Brunch & Cake,3008,4.0,Enric Granados 19 Barcelona,Barcelona
+144,Restaurante Barceloneta,3390,4.0,Carrer  de l Escar 22 Barcelona,Barcelona
+145,Agust Gastrobar,1923,4.5,Carrer Parlament 54  Barcelona,Barcelona
+146,Restaurante Rokelin Gourmet,837,4.5,Comte d Urgell 7 Barcelona,Barcelona
+147,Citizen Café,1353,4.5,Plaza Urquinaona 4  Barcelona,Barcelona
+148,Louro,966,4.5,Rambla del Caputxins 37  Barcelona,Barcelona
+149,Citrus Restaurant & Sushi bar,1681,3.5,Passeig de Gracia 44 Barcelona,Barcelona
+150,Taco Alto Born,820,4.5,Portal Nou 62 Barcelona,Barcelona
+151,Pampero,972,4.5,Plaza Doctor Letamendi 25 Barcelona,Barcelona
+152,El Clot Restaurante Barcelona,1042,4.5,Carrer  Aragon 600  Barcelona,Barcelona
+153,Bar Bacaro,554,4.5,Carrer  Jerusalem 6 Loc 1  Barcelona,Barcelona
+154,Maná 75,573,4.5,Passeig Joan de Borbó 101  Barcelona,Barcelona
+155,Ugot Bruncherie,641,4.5,Carrer de Viladomat 138  Barcelona,Barcelona
+156,La Gastronómica,359,5.0,Carrer de Calabria 118 Barcelona,Barcelona
+157,Arabia Café-Restaurant,1562,4.5,Escudellers 25  Barcelona,Barcelona
+158,Nomo Gracia,946,4.0,Carrer Gran de Gràcia 13 Barcelona,Barcelona
+159,Pura Vida Cocktails,767,4.5,Carrer dels Mercaders 20  Barcelona,Barcelona
+160,National burger Barcelona,1070,4.5,Carrer Nou de la Rambla 22  Barcelona,Barcelona
+161,Restaurant Gut,1028,4.5,Carrer Perill 13 Barcelona,Barcelona
+162,Can Travi Nou,705,4.0,12 Carrer de Jorge Manrique  Barcelona,Barcelona
+163,La Rita,1643,4.0,Aragón 279  Barcelona,Barcelona
+164,Out of China,795,4.0,Carrer  Aribau 112  Barcelona,Barcelona
+165,Pez Vela Chiringuito,1764,4.0,Paseo del Mare Nostrum 19 21  Barcelona,Barcelona
+166,Sasha Bar 1968,656,4.5,Carrer  Margarit 18  Barcelona,Barcelona
+167,Kappo Barcelona,261,4.5,Passatge Lluis Pellicer 24  Barcelona,Barcelona
+168,Bun Bo Vietnam,1587,4.0,Carrer  Sagristans 3 Barcelona,Barcelona
+169,Le Cucine Mandarosso,753,4.0,Verdaguer i Callís 4 Barcelona,Barcelona
+170,La Esquinica,1061,4.0,Fabra I Puig 296 Barcelona,Barcelona
+171,Cuines Santa Caterina,2512,4.0,Francesc Cambó 16  Barcelona,Barcelona
+172,Avinyo 10,2031,4.5,Carrer Avinyo 10  Barcelona,Barcelona
+173,espai Kru,981,4.5,Carrer  Lérida 7 Barcelona,Barcelona
+174,Milk Bar & Bistro,2683,4.5,Carrer  Gignas 21  Barcelona,Barcelona
+175,Conesa Entrepans,912,4.5,Carrer de La Llibreteria 1 Barcelona,Barcelona
+176,Restaurante Salamanca,4961,3.5,Almirall Cervera 34 Barcelona,Barcelona
+177,The George Payne,1424,4.5,Plaza Urquinaona 5 Barcelona,Barcelona
+178,Buenos Aires Grill Restaurant Eixample,3392,4.5,Carrer de València 189 Barcelona,Barcelona
+179,Surf House Barcelona,1172,4.0,Carrer Almirall Aixada 22  Barcelona,Barcelona
+180,B Burger,806,4.5,Carrer D  Arago 36  Barcelona,Barcelona
+181,Micu Maku,1723,4.5,Carrer d Aribau 22  Barcelona,Barcelona
+182,Disfrutar,1929,4.5,Carrer  Villarroel 163 Barcelona,Barcelona
+183,Elsa y Fred,2776,4.5,Carrer del Rec Comtal 11 Barcelona,Barcelona
+184,Tucco Real Food,1437,4.5,Carrer Consolat de Mar 23  Barcelona,Barcelona
+185,Vegetalia Born,1192,4.5,Pl  Del Fossar de Les Moreres  Barcelona,Barcelona
+186,Bilbao Berria,2553,4.0,Placa Nova 3 Barcelona,Barcelona
+187,Paradiso,674,4.5,Carrer  Rera Palau 4  Barcelona,Barcelona
+188,Tempura-Ya,374,4.5,Carrer MUNTANER 153 Barcelona,Barcelona
+189,Lolita Taperia,805,4.5,Tamarit 104 Barcelona,Barcelona
+190,La Taqueria,809,4.0,Passatge del Font 5  Barcelona,Barcelona
+191,Bacoa Burger Ferran,1051,4.5,Carrer de Ferran 10 Barcelona,Barcelona
+192,Restaurant Pelai,590,4.5,Carrer Tallers 62 Barcelona,Barcelona
+193,BierCaB,745,4.5,Carrer De Muntaner 55  Barcelona,Barcelona
+194,Rossini,4342,4.5,Plaza Real 13  Barcelona,Barcelona
+195,Minamo,385,4.5,Bruc 65  Barcelona,Barcelona
+196,Vrutal,609,5.0,Rambla del Poblenou No 16  Barcelona,Barcelona
+197,Luigi Ristorante,1405,4.5,Roger de Lluria 50 Barcelona,Barcelona
+198,Osmosis,1514,4.5,Aribau 100  Barcelona,Barcelona
+199,Alba Granados,939,4.0,Enric Granados 34  Barcelona,Barcelona
+200,Restaurante  Koh-i-noor india,725,4.5,Carrer del Marques de Campo Sagrado 3 Barcelona,Barcelona
+201,Bacoa,663,4.5,Carrer de Colomines 2 Barcelona,Barcelona
+202,Napoletani Restaurant,598,4.5,Diputacio 101  Barcelona,Barcelona
+203,Buon Appetito,860,4.5,Av  Marques de la argentera 19 Barcelona,Barcelona
+204,Restaurante Can Fusté,450,4.5,Gran via de Carlos III 52 Barcelona,Barcelona
+205,Cu-Cut,793,4.5,Carrer Enric Granados 68  Barcelona,Barcelona
+206,Caramba Tapas,651,4.5,Carrer de la Cera 57  Barcelona,Barcelona
+207,Totoro,326,4.0,Carrer de la Legalitat 74 Barcelona,Barcelona
+208,Parking Pizza,459,4.0,Carrer  Londres 98 Barcelona,Barcelona
+209,Senyor Vermut,399,4.0,Provenca 85 Barcelona,Barcelona
+210,Granja Petitbo,810,4.0,Passeig de Sant Joan 82 Barcelona,Barcelona
+211,Sabes una cosa,334,4.5,Carrer  Tordera 52  Barcelona,Barcelona
+212,Gatsby Barcelona,530,3.5,Carrer  Tuset 19  Barcelona,Barcelona
+213,El Rincón,1298,4.5,Carrer del Carme 28 Barcelona,Barcelona
+214,Xemei,645,4.0,Paseo De La Exposicion 85  Barcelona,Barcelona
+215,Can Sole,829,4.0,Carrer  Sant Carles 4 Barcelona,Barcelona
+216,El Argentino,1281,4.0,Arago 224  Barcelona,Barcelona
+217,Ceviche 103,792,4.0,Carrer de Londres 103 Barcelona,Barcelona
+218,Taller de Tapas - Argenteria,2183,4.0,Argenteria 51 Barcelona,Barcelona
+219,El Nacional,5981,4.0,Paseo de Gracia 24 bis Barcelona,Barcelona
+220,Restaurante Igueldo,696,4.5,Carrer  Rossello 186  Barcelona,Barcelona
+221,Restaurant Ca L'Estevet,531,4.5,Carrer Valldonzella 46  Barcelona,Barcelona
+222,Passadís del Pep,849,4.0,Pla del Palau 2 Barcelona,Barcelona
+223,Nomo Galvany,498,4.0,Madrazo 135 Barcelona,Barcelona
+224,La Venta,544,4.0,Plaza Doctor Andreu  Barcelona,Barcelona
+225,Matsuri Sushi Bar,807,4.5,Plaça del Regomir 1  Barcelona,Barcelona
+226,Aladdin restaurante,923,4.5,Avinguda de Gaudi 50 Barcelona,Barcelona
+227,Monvinic,690,4.5,Diputacio 249 Barcelona,Barcelona
+228,Mediterráneo Ristorante,562,4.5,Carrer de Josep Pla 19 Barcelona,Barcelona
+229,Patagonia Beef & Wine,2050,4.5,Gran Via de Les Corts Catalanes 660 Barcelona,Barcelona
+230,Güell Tapas,2215,4.5,Carrer Nou de la Rambla 20 Barcelona,Barcelona
+231,Oval,759,4.0,Valencia 199  Barcelona,Barcelona
+232,La Fabrica,953,4.5,Plaza la Llana 15 Barcelona,Barcelona
+233,Bar La Plata,765,4.5,Mercè 28  Barcelona,Barcelona
+234,Tucco Real Food Eixample,348,5.0,Carrer Consell de Cent 247 Barcelona,Barcelona
+235,Pastelería Hofmann,592,4.5,Carrer dels Flassaders 44 Barcelona,Barcelona
+236,La Caleta de Sants,466,4.5,Carretera de la Bordeta 54 Barcelona,Barcelona
+237,Craft Barcelona,268,4.5,Carrer  Paradis 4  Barcelona,Barcelona
+238,Gran Viana,504,5.0,Carrer Dels Escudellers 24  Barcelona,Barcelona
+239,Hummus Barcelona Vegetarian Street Food,518,4.5,Valencia 227  Barcelona,Barcelona
+240,Wok to Walk,1352,4.5,Carrer de Sant Pau 27 Barcelona,Barcelona
+241,Shanghai,268,4.0,Bisbe Sivilla 48 Barcelona,Barcelona
+242,Taps,1109,4.5,Carrer  Mare de Déu del Remei 53 Barcelona,Barcelona
+243,Taverna El Glop,1506,4.0,Carrer  Sant Lluis 24  Barcelona,Barcelona
+244,Mannà Gelats,1060,5.0,Carrer dels Banys Nous 22  Barcelona,Barcelona
+245,Santa Rita Experience,497,5.0,Carrer de Veneçuela 16  Barcelona,Barcelona
+246,Restaurante Fukamura,296,4.5,Carrer  Corsega 479  Barcelona,Barcelona
+247,Sumac & Mambo,393,5.0,Carrer D enric Granados  Barcelona,Barcelona
+248,Bar Rodrigo,1082,4.5,Argenteria 67  Barcelona,Barcelona
+249,Tandoor,450,4.0,Carrer d Aragó 8 Barcelona,Barcelona
+250,Tragaluz,1076,4.0,Passatge De La Concepcion Number 5 Barcelona,Barcelona
+251,Can Ramonet,1220,3.5,Carrer  Maquinista 17 Barcelona,Barcelona
+252,Acontraluz,398,3.5,Milanesat 19 Barcelona,Barcelona
+253,Shoko,1485,3.5,Paseo Maritimo de la Barceloneta 36 Barcelona,Barcelona
+254,Ocaña,1771,3.5,Plaça Reial 13 15 Barcelona,Barcelona
+255,Aqui Quedamos,281,4.5,Violant D hongria Reina D arago 60 Barcelona,Barcelona
+256,Monster Sushi,1176,4.5,Gala Placidia 25  Barcelona,Barcelona
+257,EatMyTrip - Brunch & Bakery Barcelona,620,4.5,Carrer del Consell de Cent 378 Barcelona,Barcelona
+258,Agreste de Fabio & Roser,292,4.5,Carrer Funoses Llussà 2  Barcelona,Barcelona
+259,Spark,284,4.5,Carrer  Diputacion 329 Barcelona,Barcelona
+260,BRO Room,358,4.5,Corsega 562  Barcelona,Barcelona
+261,Karakala,383,4.5,Torrent de L  Olla 136 Barcelona,Barcelona
+262,Akashi Gallery,347,4.5,Carrer Rossello 197 Barcelona,Barcelona
+263,Gorria,567,4.5,Carrer  Diputación 421 Barcelona,Barcelona
+264,La Lola de las Arenas,1754,4.0,cami ral  10   Barcelona,Barcelona
+265,Pudding Barcelona,688,3.5,Carrer Pau Claris 90 Barcelona,Barcelona
+266,La Poma Restaurant,2678,3.0,La Rambla 117  Barcelona,Barcelona
+267,Bar Lobo,2893,4.0,Pintor Fortuny 3  Barcelona,Barcelona
+268,Gelida,240,4.5,Carrer de la Diputació 133 Barcelona,Barcelona
+269,Restaurante L'hortet,309,4.5,Pintor Fortuny 32 Barcelona,Barcelona
+270,Tio Joe,282,4.5,Via Augusta 9  Barcelona,Barcelona
+271,Hidden Cafe Barcelona,143,4.5,Carrer  Constança   Déu i Mata  Barcelona,Barcelona
+272,Restaurante argentino El Calafate,258,4.5,Carrer  de Paris 145 Barcelona,Barcelona
+273,Boa-Bao Barcelona,218,4.5,Plaça del Dr  Letamendi 1 Barcelona,Barcelona
+274,Ziryab bar de tapas fusión mediterránea,1360,4.5,Carrer de Grunyi 5  Barcelona,Barcelona
+275,De Paula L'hamburgueseria del Poble Sec,278,4.5,Creu Dels Molers 65 Barcelona,Barcelona
+276,Semproniana,930,4.0,Rosselló 148  Barcelona,Barcelona
+277,El Nacional - La Taperia,1643,4.0,Passeig de Gràcia 24 bis Barcelona,Barcelona
+278,Cera 23,5097,4.5,Carrer de la Cera 23 Barcelona,Barcelona
+279,Fonda Espanya Restaurante,1164,4.5,Carrer De Sant Pau 9 11  Barcelona,Barcelona
+280,La Briciola,278,4.0,C  d Olzinelles 19  Barcelona,Barcelona
+281,Llamber,2578,4.5,Carrer de la Fusina 5 Barcelona,Barcelona
+282,Bistro Helena,1111,4.5,Via Laietana 30 Barcelona,Barcelona
+283,La Mundana,644,4.5,Vallespir 93 Barcelona,Barcelona
+284,Meson Barcelona,83,3.5,Rua  5 Vigo Barcelona,Barcelona
+285,Can Kenji,660,4.5,Carrer Rossello 325  Barcelona,Barcelona
+286,A Tu Bola,1391,4.5,Carrer de l Hospital 78 Barcelona,Barcelona
+287,Blavis,864,5.0,Carrer Saragossa 85 Barcelona,Barcelona
+288,Restaurante Spaccanapoli Barcelona,236,4.5,Carrer Del Rec Comtal 6 Barcelona,Barcelona
+289,Mussol Aragó,1067,3.5,Carrer Arago 261 Barcelona,Barcelona
+290,chök - Carme,1221,4.5,Carrer de Carme 3 Barcelona,Barcelona
+291,Bodega Lito,1151,4.5,Carrer de Tamarit 91 Barcelona,Barcelona
+292,La Fonda del Port Olimpic,3361,4.0,Moll Gregal 7 10 Barcelona,Barcelona
+293,Takashi Ochiai Pastisseria,333,4.0,Comte d Urgell 110 Barcelona,Barcelona
+294,La Royale,471,3.5,Placa del Camp 5 Barcelona,Barcelona
+295,Oaxaca Cuina Mexicana - Restaurante y Mezcalería,692,3.5,Pla de Palau 19 Barcelona,Barcelona
+296,Bierzo food,1309,4.5,Carrer de les Flors 16 Barcelona,Barcelona
+297,Martinez,1581,3.5,Carretera de Miramar 38 Barcelona,Barcelona
+298,Els Pescadors,880,3.5,Placa Prim 1  Barcelona,Barcelona
+299,El Xalet de Montjuïc,942,3.5,Av  Miramar 31  Barcelona,Barcelona
+300,La Bombeta,2167,4.0,Maquinista 3 Barcelona,Barcelona
+301,Hard Rock Cafe,3960,4.0,Plaça Catalunya 21  Barcelona,Barcelona
+302,DelaCrem,987,4.5,Enric Granados 15 17 Barcelona,Barcelona
+303,Restaurante Contempo,502,4.5,Carrer  Bergara 9 Barcelona,Barcelona
+304,Restaurante el Porvenir,404,4.5,Carrer  Villarroel  Restaurante el Porvenir 46 Barcelona,Barcelona
+305,Tapas 24,4273,4.0,Carrer de la Diputacio 269 Barcelona,Barcelona
+306,Churrería Laietana,993,5.0,Via Laietana 46  Barcelona,Barcelona
+307,Xiringuito Escribà,2143,4.0,Avinguda Litoral 62 Barcelona,Barcelona
+308,Sindur,423,4.5,Carrer  Còrsega 211 bis  Barcelona,Barcelona
+309,Casa Alfonso,1480,4.0,Roger de Llúria 6 Barcelona,Barcelona
+310,Miseria e Nobiltà,335,4.5,Carrer Besalú 46 Barcelona,Barcelona
+311,La Real Hamburguesería,245,4.5,Carrer de Valencia 285  Barcelona,Barcelona
+312,La Cuina d'en Garriga,777,4.5,Carrer d Enric Granados 58 Barcelona,Barcelona
+313,il mercante di venezia,885,4.5,josep anselmo clave 11  Barcelona,Barcelona
+314,Vinitus Madrid-Barcelona,276,4.5,Carrer d Aragó 282 Barcelona,Barcelona
+315,Cal Pep,2387,4.0,Placa de les Olles 8  Barcelona,Barcelona
+316,El Corte Ingles,1116,4.0,Plaza de Cataluya 14 Barcelona,Barcelona
+317,Can Majó,2033,4.0,Almirall Aixada nº23  Barcelona,Barcelona
+318,La Pepita,3011,4.5,C  Corsega 343  Barcelona,Barcelona
+319,Tapa Tapa,1738,3.0,Moll D Espanya Num  5 Barcelona,Barcelona
+320,Restaurante Cadaques Barcelona,99,4.5,Reina Cristina 6 Barcelona,Barcelona
+321,Tapa Tapa C.C. Arenas,1638,3.5,Gran Via de les Corts Catalanes 373 385 Barcelona,Barcelona
+322,Restaurante La Boca Agua,2020,4.0,Passeig Marítim de la Barceloneta 30  Barcelona,Barcelona
+323,La Terraza del Claris,384,4.5,Pau Claris 150  Barcelona,Barcelona
+324,L' Olla de Si Chuan,412,4.0,Carrer  Aragó 224  Barcelona,Barcelona
+325,Món Viêt,269,4.5,Sepulveda 94  Barcelona,Barcelona
+326,Ikibana Paralelo,1794,4.0,Avinguda del Paral lel 148  Barcelona,Barcelona
+327,Palo Cortao,572,4.5,Carrer  Nou de la Ramba 146 Barcelona,Barcelona
+328,Rasoterra,884,4.5,Carrer Palau 5 Barcelona,Barcelona
+329,Accés,2710,4.5,Aribau 55  Barcelona,Barcelona
+330,La Paradeta Sagrada Familia,4318,4.5,Passatge Simo 18  Barcelona,Barcelona
+331,Tickets,2542,4.5,Av  del Parallel 164 Barcelona,Barcelona
+332,Marisqueria Esthvan,228,4.5,Carrer de Palencia 45 Barcelona,Barcelona
+333,Parking Pizza,338,4.0,Passeig de Sant Joan 56 Barcelona,Barcelona
+334,Restaurante Hofmann,520,4.5,Carrer de La Granada del Penedes 14 Barcelona,Barcelona
+335,Donizetti,629,4.5,Diputació 137  Barcelona,Barcelona
+336,Rekons,614,4.5,Carrer  Comte D Urgell 32 Barcelona,Barcelona
+337,Chivuo's Slow Street Food & Craft Beer,640,4.5,Carrer del Torrent de l Olla 175 Barcelona,Barcelona
+338,Restaurante Leku,343,4.5,Carrer de Joan Guell 189 Barcelona,Barcelona
+339,Restaurant Sergi de Meià,425,4.5,Carrer de Laforja 83 Barcelona,Barcelona
+340,Chéri,1024,4.0,Enrique Granados 122 Barcelona,Barcelona
+341,Usagui,233,4.5,Carrer  Santjoanistes 28  Barcelona,Barcelona
+342,La Taberna Gallega,1156,3.5,24 Moll de Gregal  Barcelona,Barcelona
+343,El Rebost d'Hostafrancs,207,4.5,Bejar 33 Barcelona,Barcelona
+344,ElDiset,971,4.5,Carrer Antic de Sant Joan 3  Barcelona,Barcelona
+345,Arepamundi,304,4.5,Carrer de la Marina 212  Barcelona,Barcelona
+346,Restaurant Ají,320,4.5,Carrer Marina 19 21 Barcelona,Barcelona
+347,Pizza Circus,716,4.5,Carrer Nou de la Rambla 40  Barcelona,Barcelona
+348,Da Greco,1260,4.0,Carrer de Santa Teresa 10 Barcelona,Barcelona
+349,La Mar Salada,1316,4.0,Pg Joan de Borbo 58 59 Barcelona,Barcelona
+350,Jara Sushi  Take Away,236,5.0,Carrer De Pàdua 84 Barcelona,Barcelona
+351,El Cangrejo Loco,1606,4.0,Moll De Gregal 29 30  Barcelona,Barcelona
+352,Kibuka,910,4.0,Carrer  Goya 9 Barcelona,Barcelona
+353,Mussol Casp,1350,4.0,Carrer Casp 19 Barcelona,Barcelona
+354,Restaurante Addis Abeba,937,4.5,Carrer  de Vallespir 44 Barcelona,Barcelona
+355,BEMBI,796,4.5,Consell De Cent 377  Barcelona,Barcelona
+356,La Balmesina,234,4.0,Balmes 193  Barcelona,Barcelona
+357,Kitsune Sushi Bar Gràcia,330,4.5,Carrer del Montseny 13  Barcelona,Barcelona
+358,Flax & Kale Passage,571,4.5,Sant Pere Més Alt 31 33 Barcelona,Barcelona
+359,La Tramoia,1439,3.5,Rambla de Catalunya 15 Barcelona,Barcelona
+360,La Dolça Herminia,942,3.5,Magdalenas 27 Barcelona,Barcelona
+361,Flamant,1181,3.5,Enrique Granados 23 Barcelona,Barcelona
+362,Cachitos Rambla,1690,4.0,Rambla Catalunya 33 Barcelona,Barcelona
+363,Tapas 2254,1076,4.5,Consell De Cent 335  Barcelona,Barcelona
+364,Bacoa,889,4.5,Carrer del Judici 15 Barcelona,Barcelona
+365,Lluis de les Moles,402,4.5,Carrer  De les Moles 25  Barcelona,Barcelona
+366,Bar Restaurante Pinotxo,1198,4.5,Mercado De La Boquería 465 Barcelona,Barcelona
+367,Can Fisher,1745,4.5,Avenida Litoral 64 Barcelona,Barcelona
+368,El Raco de l'Aguir,240,4.5,Tamarit 117 Barcelona,Barcelona
+369,We Love Italy,195,5.0,Carrer Del Bruc 162  Barcelona,Barcelona
+370,Panam '75,420,4.5,Carrer Consell de Cent 281  Barcelona,Barcelona
+371,Almalibre Açaí House Barcelona,100,5.0,Girona 118  Barcelona,Barcelona
+372,El Trapío Restaurante,360,4.0,Esperança 25 Barcelona,Barcelona
+373,La Clara Restaurant,560,4.0,Gran via de les corts Catalanes 442 Barcelona,Barcelona
+374,Salsalada,1189,4.0,La Rambla 87 Barcelona,Barcelona
+375,Carballeira,680,4.0,Carrer  Reina Cristina 3 Barcelona,Barcelona
+376,El Japones del Tragaluz,582,4.0,Passatge de la Concepcio 2 Barcelona,Barcelona
+377,The Sopa Boba,1011,4.5,Carrer del Bruc115 Barcelona,Barcelona
+378,Caelis,1060,4.5,Via Laietana 49 Barcelona,Barcelona
+379,La Terraza Miro,1070,4.5,Carrer De Tarragona 129 Barcelona,Barcelona
+380,Informal,958,4.5,Carrer  de la Plata 4  Barcelona,Barcelona
+381,La Llimona,317,4.5,Carrer De Constança 6 Barcelona,Barcelona
+382,El Magraner Boig,268,4.5,Carrer  D en Robador 22 Barcelona,Barcelona
+383,La Taberna de Sants,232,4.5,Carrer  Comtes de Belloc 97 Barcelona,Barcelona
+384,Secrets Del Mediterrani,468,4.5,Passeig De Sant Joan 28 Barcelona,Barcelona
+385,Raó Restaurant,1617,5.0,Carrer de les Sitges 3 Barcelona,Barcelona
+386,L'Antica Pizzeria Da Michele BCN,514,3.5,Consell de Cent 336 Barcelona,Barcelona
+387,Cafe Zurich,1329,3.5,Plaça Catalunya 1  Barcelona,Barcelona
+388,Pim Pam Burger,684,4.0,Carrer del Sabateret 4  Barcelona,Barcelona
+389,Flash Flash,546,3.5,La Granada del Penedés 25  Barcelona,Barcelona
+390,Gelaaati Di Marco,1396,4.5,Llibreteria 7 Barcelona,Barcelona
+391,Ten's,1023,4.0,Carrer del Rec 79 Barcelona,Barcelona
+392,Paco Alcalde,674,4.0,Carrer de l Almirall Aixada 12  Barcelona,Barcelona
+393,Rincón Persa,408,4.5,Floridablanca 85 Barcelona,Barcelona
+394,La Balsa,430,4.0,Carrer Infanta Isabell 4  Barcelona,Barcelona
+395,Las Delicias Del Carmelo,558,4.0,Carretera del Carmelo  Barcelona,Barcelona
+396,Coure,369,4.0,Passatge Marimon 20  Barcelona,Barcelona
+397,Restaurant Centfocs,575,4.0,Balmes 16 Barcelona,Barcelona
+398,Gastro-Taqueria Mexicana,215,4.5,Carrer de Paris 38  Barcelona,Barcelona
+399,O MEU LAR,276,4.5,Carrer  Margarit24 Barcelona,Barcelona
+400,CocoVail Beer Hall,531,4.5,Carrer  Aragó 284 bis  Barcelona,Barcelona
+401,Bodega Joan,1637,4.0,Carrer  Rosellon 164  Barcelona,Barcelona
+402,La Desayuneria,383,4.0,Comte Borrell 75  Barcelona,Barcelona
+403,Bangkok Cafe,522,4.0,Evarist Arnus 65  Barcelona,Barcelona
+404,La Mezcla,438,4.5,Plaça Sant Pere 10 Barcelona,Barcelona
+405,Sense Pressa,259,4.5,Carrer d  Enric Granados 96 Barcelona,Barcelona
+406,Todo Pasa,437,4.5,Vila I Vila 53 Paral Lel Barcelona,Barcelona
+407,Restaurante Cheriff,637,3.5,Ginebra 15 17  Barcelona,Barcelona
+408,Restaurante Mano Rota,469,4.0,Carrer Creu Dels Molers 4  Barcelona,Barcelona
+409,Pura Brasa Rambla,844,4.0,Rambla Catalunya 13 Barcelona,Barcelona
+410,La Taverna de la Ronda,448,4.5,Ronda de Sant Pere 12 Barcelona,Barcelona
+411,Santa Ceviche,242,4.5,Carrer d Hostafrancs de Sió 11 Barcelona,Barcelona
+412,Eat Caribbean,314,4.5,Carrer  Montserrat 4  Barcelona,Barcelona
+413,La Gavina,2046,3.5,Plaza Pau Vila 1 Barcelona,Barcelona
+414,Restaurante Can Cargol,428,3.5,Valencia 324 Barcelona,Barcelona
+415,Fragments Café,463,3.5,Plaça de la Concòrdia 12  Barcelona,Barcelona
+416,Fismuler,512,4.0,Carrer Del Rec Comtal 17  Barcelona,Barcelona
+417,La Taula de Barcelona,247,4.5,Carrer Sant Màrius 8 Barcelona,Barcelona
+418,Antigua,1350,4.0,Marià cubí 59 Barcelona,Barcelona
+419,Macchina Pasta Bar,1545,4.5,Carrer Escudellers 47 Barcelona,Barcelona
+420,Restaurante Filigrana,781,4.5,Carrer Tarragona 99 Barcelona,Barcelona
+421,Anauco,881,4.5,Valencia 428  Barcelona,Barcelona
+422,3 Focs,619,4.0,Carrer  de Valencia 207 Barcelona,Barcelona
+423,La Bella Napoli,459,4.0,Carrer VILLARROEL 101 Barcelona,Barcelona
+424,Restaurante Seoul,415,4.5,Avenida gaudi70 Barcelona,Barcelona
+425,Wine Mood,397,5.0,Villaroel 26  Barcelona,Barcelona
+426,BLAI TONIGHT,519,4.5,Carrer  BLAI 23 25  Barcelona,Barcelona
+427,Ca l'isidre,441,4.5,Carrer De les Flors 12  Barcelona,Barcelona
+428,Yashima,503,4.0,Avda  Josep Tarradellas 145  Barcelona,Barcelona
+429,Arrosseria Xàtiva Gràcia,830,4.0,Carrer  Torrent d en Vidalet 26 Barcelona,Barcelona
+430,Elche,1084,4.0,Vila I Vila 71 Barcelona,Barcelona
+431,L'Escamarlà,737,3.0,Passeig Maritim 40 Barcelona,Barcelona
+432,Bismillah Kebabish,287,4.5,22 Carrer de Joaquin Costa  Barcelona,Barcelona
+433,Baluard Barceloneta,432,4.5,Baluard 38 40 baixos  Barcelona,Barcelona
+434,L'olivera,489,4.5,Carrer Dels Escultors Claperos 39  Barcelona,Barcelona
+435,The Green Spot,783,4.0,Carrer  de la Reina Cristina 12  Barcelona,Barcelona
+436,LomoAlto BCN,685,4.0,Carrer Arago 283 285  Barcelona,Barcelona
+437,Mamarosa Beach,774,3.5,Passeig Mare Nostrum 19 21 Barcelona,Barcelona
+438,Sushiraku,207,4.5,08036  Barcelona,Barcelona
+439,Com a Itàlia,323,4.5,Carrer  Sant Quinti 39 Barcelona,Barcelona
+440,La Pizza del Born,528,4.0,Pàsseig del Born 22 Barcelona,Barcelona
+441,el tianguis,334,4.0,Villarroel 42  Barcelona,Barcelona
+442,Teddy's Barcelona,894,5.0,Carrer Escudellers 12  Barcelona,Barcelona
+443,Xerta Restaurant,458,4.0,Carrer  Corsega 289 Barcelona,Barcelona
+444,Vic Braseria,1056,4.5,Sicilia 202  Barcelona,Barcelona
+445,Casa Rafols,988,4.5,Ronda Sant Pere 74  Barcelona,Barcelona
+446,Granja Elena,363,4.5,Passeig de la zona Franca 228  Barcelona,Barcelona
+447,La Lluna Restaurant,642,4.0,Carrer  Santa Anna 20 Barcelona,Barcelona
+448,El Gran Cafè,1271,3.5,Carrer d Avinyó 9 Barcelona,Barcelona
+449,Marina Port Vell Restaurant,570,4.0,Moll de la Barceloneta 1  Barcelona,Barcelona
+450,El Mercader de L'Eixample,510,4.0,Carrer Mallorca 239 Barcelona,Barcelona
+451,Casa Masana,588,3.5,Carrer de Balmes 129 Barcelona,Barcelona
+452,Lateral Bcn,546,3.5,Carrer de Consell de Cent 329  Barcelona,Barcelona
+453,Ristorante Meraviglioso,302,4.5,Carrer de Valencia 28  Barcelona,Barcelona
+454,Raco De La Vila,1325,4.0,Carrer  Ciutat De Granada 33 Barcelona,Barcelona
+455,Big Al's American Kitchen,707,4.5,Corsega 178  Barcelona,Barcelona
+456,BRO,877,4.5,Baluard 34  Barcelona,Barcelona
+457,Casa Delfin,1794,4.0,Passeig del Born 36 Barcelona,Barcelona
+458,ABaC,2191,4.5,Avinguda Tibidabo 1 Barcelona,Barcelona
+459,The Market Perú,635,4.0,Carrer Gran de Gràcia 7 Barcelona,Barcelona
+460,Bar Restaurante Guixot,223,4.5,Riereta 8 Barcelona,Barcelona
+461,Petit Pau Restaurant,833,4.5,Carrer de l Espanya Industrial num  22  Barcelona,Barcelona
+462,Nuba,662,3.5,Carrer  Doctor Fleming 12 14 Barcelona,Barcelona
+463,Restaurante Biocenter,743,4.0,Pintor Fortuny 25 Barcelona,Barcelona
+464,Abrassame,1582,4.0,Gran Via de Las Corts Catalanes 373 385 Barcelona,Barcelona
+465,Casa de Tapas Cañota,1583,4.0,Lleida 7  Barcelona,Barcelona
+466,Pomarada,513,4.0,Passeig de Gracia 78  Barcelona,Barcelona
+467,El Rincón de la Abuela Venezolana,333,4.0,Carrer  Mallorca 470 Barcelona,Barcelona
+468,L'Antic Bocoi del Gotic,997,4.5,Baixada de Viladecols 3 Barcelona,Barcelona
+469,Euskal Etxea,1377,4.0,Placeta de Montcada 1 Barcelona,Barcelona
+470,Majide,297,4.0,Carrer Tallers48 bis Barcelona,Barcelona
+471,Sagardi BCN Centre,432,4.0,Carrer de Muntaner 70 Barcelona,Barcelona
+472,Bar Celta Pulperia,1046,4.0,Carrer Simo Oller 3 Barcelona,Barcelona
+473,Pulpería A'Gudiña,488,4.0,Carrer d Entença 2  Barcelona,Barcelona
+474,Balthazar,952,3.5,Rossello 189 Barcelona,Barcelona
+475,Rangoli,609,4.0,Passeig Joan de Borbo 78  Barcelona,Barcelona
+476,Orio Gòtic,1656,4.0,Carrer de Ferran 38 Barcelona,Barcelona
+477,Mussol Arenas,1181,3.5,Carrer  Gran Via de les Corts Catalanes  Barcelona,Barcelona
+478,La Botiga Arenas,1162,3.5,Gran Via de les Corts Catalanes 373 385 Barcelona,Barcelona
+479,The Coffee House Barcelona,121,5.0,Carrer Valencia 143 Barcelona,Barcelona
+480,The Wild Rover Irish Pub Barcelona,391,4.5,Carrer Santa Monica 2 Barcelona,Barcelona
+481,Memorias de China,299,4.0,Carrer de Lincoln 17  Barcelona,Barcelona
+482,La Monroe,513,4.0,Placa Salvador Segui 1 9  Barcelona,Barcelona
+483,Frankie Gallo Cha Cha Cha,335,4.0,Marques De Barbera 15  Barcelona,Barcelona
+484,Brugarol Barcelona,326,5.0,Carrer de Salomó Ben Adret 10 Barcelona,Barcelona
+485,Shibui,560,3.5,Carrer Comte d Urgell Barcelona,Barcelona
+486,El Yantar de la Ribera,442,4.0,Roger de Flor 114  Barcelona,Barcelona
+487,La Muscleria,896,4.0,Mallorca 290 Barcelona,Barcelona
+488,Woki Organic Market,784,4.0,Ronda Universitat 20 Barcelona,Barcelona
+489,Madre Lievito,514,4.0,Carrer de la Llacuna 1 Barcelona,Barcelona
+490,Ukai Eixample,429,4.0,Carrer  Mallorca 188  Barcelona,Barcelona
+491,Chez Coco,557,4.0,Diagonal 465 Barcelona,Barcelona
+492,La Central Hamburgueseria - Laietana,1104,4.5,Via Laietana 45 Barcelona,Barcelona
+493,Ascent Restaurant,418,4.5,Carrer dels Arcs 10  Barcelona,Barcelona
+494,Abirradero,561,4.5,Carrer Vila i Vila 77 Barcelona,Barcelona
+495,Sensi Bistro Barcelona,2123,4.5,Carrer del Regomir 4  Barcelona,Barcelona
+496,El 58,1332,4.5,Rambla del Poblenou 58 Barcelona,Barcelona
+497,Horchateria Sirvent,175,4.5,Carrer  Parlament 56 Barcelona,Barcelona
+498,La Paradeta El Born,1748,4.5,Carrer Comercial 7 Barcelona,Barcelona
+499,Bordeaux - Cuina Oberta,332,4.5,Carrer Del Taquigraf Garriga 34 Barcelona,Barcelona
+500,Casa Guinart,1127,4.0,Ramblas 95 Barcelona,Barcelona
+501,La Catrina de Barcelona,225,4.5,Carrer Sardenya 196  Barcelona,Barcelona
+502,Flaherty's Irish Pub,1713,4.5,Plaza Joaquim Xirau  Barcelona,Barcelona
+503,Firo Tast,361,4.0,Avenida Gaudí 83  Barcelona,Barcelona
+504,The Chipiron,1509,3.5,Maremagnum  Moll D Espanya  Port Vell   Barcelona,Barcelona
+505,La Foga,991,4.5,Passeig De Sant Joan 32 Barcelona,Barcelona
+506,McDonald's,390,3.0,Carrer  Pelai 62  Barcelona,Barcelona
+507,El Tiet Taver-Teca Taverna Gastronomica,356,4.5,Corsega 382  Barcelona,Barcelona
+508,Chill Bar Barcelona,1023,4.5,Carrer  Provenca 424  Barcelona,Barcelona
+509,Topik,488,4.0,Carrer  Valencia 199 Barcelona,Barcelona
+510,"SAGÀS - Pagesos, Cuiners & Co.",473,4.0,Pla de Palau 13 Barcelona,Barcelona
+511,Alsur Cafe,979,4.0,Plaça de Sant Cugat 1  Barcelona,Barcelona
+512,Asador de Aranda Pau Claris,641,4.0,Carrer  Pau Claris 70  Barcelona,Barcelona
+513,Las Mañanitas - Tex Mex Bcn,471,4.0,Gran Via de les Cortes Catalanes 715  Barcelona,Barcelona
+514,Entrepanes Diaz,341,4.0,Carrer  Pau Claris 189 Barcelona,Barcelona
+515,El Nacional - La Braseria,632,3.5,Passeig de Gracia 24 bis  Barcelona,Barcelona
+516,Wakasa,184,4.5,Napols 287 Barcelona,Barcelona
+517,Prado de Flores,703,4.0,Carrer  Santa Anna 11 Barcelona,Barcelona
+518,SantaGula,965,4.5,Plaza Narcís Oller 3 Barcelona,Barcelona
+519,Assunta Barcelona,314,4.5,Carrer de Provença 300 Barcelona,Barcelona
+520,Granja La Pallaresa,1037,4.0,Carrer de Petritxol 11  Barcelona,Barcelona
+521,El Cercle,1333,4.0,Carrer dels Arcs 5  Barcelona,Barcelona
+522,La Hacienda,467,3.5,Carrer del Rec 69 Barcelona,Barcelona
+523,Red Garter Barcelona,276,4.5,Passeig de Colom 23  Barcelona,Barcelona
+524,La Pubilla,666,4.5,Placa de la Llibertat 23  Barcelona,Barcelona
+525,ÖUZÖ Barcelona,78,4.5,Rambla de Fabra i Puig 66 Barcelona,Barcelona
+526,Arc Iris Restaurant Vegetarià,353,4.5,Roger de Flor 216 Barcelona,Barcelona
+527,La Catrina Fusion,247,4.5,Providencia 88 Barcelona,Barcelona
+528,Petra,695,4.5,Sombrerers 13  Barcelona,Barcelona
+529,Lara Grill Barcelona,70,4.5,Carrer  Muntaner 146  Barcelona,Barcelona
+530,Bar Mut,1354,4.0,pau Claris 192  Barcelona,Barcelona
+531,Yamadori,286,4.0,Aribau   66  Barcelona,Barcelona
+532,Patrón,1055,4.0,Travessera GRACIA 44 Barcelona,Barcelona
+533,Alsur Café (Llúria),1332,4.0,Roger de Llúria 23  Barcelona,Barcelona
+534,Dona Rosa,910,4.5,Carrer de Ferlandina 27 Barcelona,Barcelona
+535,Alquimia Barcelona,200,5.0,Carrer D Aribau 77 Barcelona,Barcelona
+536,Nineteen Restaurant,300,4.5,Pl  de Catalunya 19 Barcelona,Barcelona
+537,Bestial,1215,3.5,Ramón Trias Fargas 2 4  Barcelona,Barcelona
+538,Baritimo,859,4.0,Moll de Espanya 5 Barcelona,Barcelona
+539,Cafè de la Pedrera,971,4.0,Passeig de Gracia 92 Barcelona,Barcelona
+540,Pastelerias Mauri,727,4.0,Rambla de Catalunya 102 Barcelona,Barcelona
+541,Restaurant La Estrella,406,4.5,Carrer  Ocata 6  Barcelona,Barcelona
+542,Restaurant Windsor,678,4.5,Corsega 286  Barcelona,Barcelona
+543,The fish & chips shop,852,4.5,Carrer  Rocafort 70  Barcelona,Barcelona
+544,El Boliche del Gordo Cabrera,446,4.5,Consell de Cent 338 Barcelona,Barcelona
+545,Messié Sin Gluten,589,4.5,Siracusa 15 Barcelona,Barcelona
+546,Vivant,866,4.5,Consell de Cent 394  Barcelona,Barcelona
+547,En Ville,765,4.5,Carrer del Dr  Dou 14 Barcelona,Barcelona
+548,Picnic Restaurant,770,4.5,1 Carrer del Comerc  Barcelona,Barcelona
+549,Rosa del Raval,1009,4.0,Carrer dels Àngels 6 Barcelona,Barcelona
+550,Melo-Jia,296,4.5,Carrer  Córsega 250  Barcelona,Barcelona
+551,Izakaya Ramen House,560,4.5,Ronda Sant Pau 7 Barcelona,Barcelona
+552,65 Degrees Barcelona,174,5.0,Carrer del Davant del Portal Nou 3  Barcelona,Barcelona
+553,Suculent,803,4.0,Rambla del Raval 45 Barcelona,Barcelona
+554,La Taverna del Clínic,751,4.0,Rossello 155 Barcelona,Barcelona
+555,Blue Spot Barcelona,252,3.5,Passeig Joan de Borbó 101 Barcelona,Barcelona
+556,Colmado,316,4.0,Provença 236  Barcelona,Barcelona
+557,Restaurante Japones Ta Mi,370,4.0,Carrer de Nàpols 229 Barcelona,Barcelona
+558,Quinto Quinta,1046,4.0,Gran Via de les Corts Catalanes 373 Barcelona,Barcelona
+559,Julivert Meu,896,4.0,Carrer  Bonsuccés 7  Barcelona,Barcelona
+560,Casa Jordi,318,4.5,Passatge MARIMON 18 Barcelona,Barcelona
+561,Restaurante MIAN,542,4.5,Girona 49  Barcelona,Barcelona
+562,Restaurante Solomillo,596,4.5,Mallorca 251 Barcelona,Barcelona
+563,Granja M. Viader,937,4.0,Carrer  Xuclà 4 6  Barcelona,Barcelona
+564,Somewhere  Aribau,349,4.5,Aribau 101  Barcelona,Barcelona
+565,Mutenroshi Ramen,753,4.0,Carrer de Sant Agusti 10 Barcelona,Barcelona
+566,Taverna del Bisbe,1435,3.5,Av  Cathedral 6 8  Barcelona,Barcelona
+567,Lexi's restaurant & cocktail bar,456,4.0,Aribau 38 Barcelona,Barcelona
+568,A estrela Galega,188,4.5,Rosalia de Castro 26  Barcelona,Barcelona
+569,Menssana,1418,4.5,Carrer Sardenya 48  Barcelona,Barcelona
+570,El Nacional - La Llotja,607,4.0,Passeig de Gràcia 24 bis Barcelona,Barcelona
+571,Roig Robí,317,4.0,Carrer  Séneca 20 Barcelona,Barcelona
+572,Grasshopper,286,4.0,Placa De La Llana 9  Barcelona,Barcelona
+573,Tramonti 1980,299,4.0,Avda  Diagonal 501 Barcelona,Barcelona
+574,La Caravana,268,4.5,Carrer de Mozart 15 Barcelona,Barcelona
+575,Massimo,252,4.0,Via Augusta 217 Barcelona,Barcelona
+576,La Llibertaria,406,4.5,Tallers 48 Barcelona,Barcelona
+577,Koku Kitchen Ramen & Gyoza Bar,360,4.5,Carrer del Comerc 29  Barcelona,Barcelona
+578,Asador de Aranda Londres,335,4.0,Carrer  Londres 94 Barcelona,Barcelona
+579,Sato I Tanaka,136,5.0,Bruc 79 Barcelona,Barcelona
+580,Boca Chica,654,4.0,Passatge de la Concepcio No 14  Barcelona,Barcelona
+581,Kiosko Universal,874,4.5,Mercat de La Boqueria  Barcelona,Barcelona
+582,El Racó - Rambla Catalunya,869,4.0,Rambla Catalunya 25 Barcelona,Barcelona
+583,Kao Dim Sum,282,3.5,Carrer Del Bisbe Sivilla 48 Barcelona,Barcelona
+584,La Tomaquera,319,3.5,Carrer de Margarit 58  Barcelona,Barcelona
+585,Restaurante Salero,361,4.0,Carrer de Tordera 10 12  Barcelona,Barcelona
+586,Taller de Tapas,2261,4.0,Rambla de les Flors 108  Barcelona,Barcelona
+587,Sirvent Barcelona,400,4.0,Ronda Sant Pau 67  Barcelona,Barcelona
+588,El Mexicano de Barcelona,264,4.0,Carrer  Villarroel 233 Barcelona,Barcelona
+589,Cafe De L'Academia,1271,4.5,Placa St Just Lledo 1 Barcelona,Barcelona
+590,Kanada-Ya Barcelona,59,4.5,Carrer de València 240 Barcelona,Barcelona
+591,El Tío Che,266,4.0,Rambla del Poblenou 44 Barcelona,Barcelona
+592,El Rodizio,550,3.5,Carrer del Consell de Cent 403 Barcelona,Barcelona
+593,Caelum,825,4.0,Carrer de la Palla 8  Barcelona,Barcelona
+594,Jobs Restaurant,251,5.0,Carrer  Mallorca  Barcelona,Barcelona
+595,Can Mano,1381,4.5,Carrer  del Baluard 12 Barcelona,Barcelona
+596,Betlem Miscelánea Gastronómica,763,4.5,Girona 70  Barcelona,Barcelona
+597,Mi Gracia,419,4.5,Carrer  Encarnacio 52 Barcelona,Barcelona
+598,Restaurante Can Pineda,262,4.5,Carrer  Sant Joan de Malta 55 Barcelona,Barcelona
+599,Hisop,775,4.0,Passatge Marimón 9 Barcelona,Barcelona
+600,Núria,1603,3.5,Rambla de Canaletes 133 Barcelona,Barcelona
+601,CrosMas,344,4.5,Casanova 158  Barcelona,Barcelona
+602,El Club De La Hamburguesa,389,4.0,Valdonzella  3 Barcelona,Barcelona
+603,Bodega La Puntual,919,4.0,Carrer Montcada 22 Barcelona,Barcelona
+604,Watatsumi,639,4.0,373 385 5a Planta Barcelona,Barcelona
+605,Federal Cafe Parlament,1179,3.5,Carrer  Parlament 39 08015  Barcelona,Barcelona
+606,Papadam,370,5.0,Ronda de Sant Pau 11 Barcelona,Barcelona
+607,Red Ant Noodle Bar,435,4.0,Carrer  Tiradors 3 5 Barcelona,Barcelona
+608,Calabrasa,334,4.5,Passeig del Born 27  Barcelona,Barcelona
+609,Mextizo Barcelona,417,4.0,Carrer Diputacio 239 Barcelona,Barcelona
+610,SiamoQuà,639,4.5,Rambla Del Poblenou 123  Barcelona,Barcelona
+611,Bar Centro Burgers & Craft Beer,654,4.5,Carrer  Casp 55 Barcelona,Barcelona
+612,Billy Brunch & Garden,243,5.0,Carrer de Muntaner 64 Barcelona,Barcelona
+613,Bodega Monumental,1113,4.0,Creu Coberta 87 Barcelona,Barcelona
+614,Estimar,356,4.0,Carrer de Sant Antoni dels Sombrerers 3 Barcelona,Barcelona
+615,La Tere Gastrobar,341,4.5,Carrer de Riego 25 Barcelona,Barcelona
+616,Maur,453,4.0,Carrer Comte D  Urgell 9 Barcelona,Barcelona
+617,Veggie Garden 100% vegano,900,4.0,Carrrer Dels Angels 3  Barcelona,Barcelona
+618,Restaurant Gaig,489,4.0,Carrer  Córcega 200 Barcelona,Barcelona
+619,La Capricciosa,545,4.0,Carrer  Viladomat 265 Barcelona,Barcelona
+620,Trópico,545,4.0,Carrer Marques de Barbera 24 Barcelona,Barcelona
+621,Nakashita,591,4.0,Rec Comtal 15  Barcelona,Barcelona
+622,Miguelitos,348,4.0,Carrer  Aribau 162  Barcelona,Barcelona
+623,La Malandrina,1006,4.5,Carrer  Almirante Cervera Numero 5  Barcelona,Barcelona
+624,Spoonik Club Plaza Lesseps,592,4.5,plaza lesseps 13  Barcelona,Barcelona
+625,El Ramblero,324,4.5,Carrer  Pont Del Terball 13 Barcelona,Barcelona
+626,Antúnez,378,4.5,Carrer de Neptu 18  Barcelona,Barcelona
+627,La Taverna de Barcelona,699,4.0,Ronda de la Universitat 37 Barcelona,Barcelona
+628,Ristorante Pizzeria  Eden,627,4.5,Carrer de Provença 332  Barcelona,Barcelona
+629,Olivos Comida y Vinos,213,5.0,Carrer de Galileu 159 Barcelona,Barcelona
+630,Costa Pacifico,308,4.5,Plaça Sant Agustí Vell 13  Barcelona,Barcelona
+631,La Cachapera Bcn,208,4.5,Carrer Villaroel 57  Barcelona,Barcelona
+632,Divinus,1301,3.5,Paseo de Gracia 28 Barcelona,Barcelona
+633,El Jardí de l'Abadessa,340,3.5,Abadessa Olzet 26 Barcelona,Barcelona
+634,Farga Diagonal,491,3.5,Diagonal 391 Barcelona,Barcelona
+635,Bambu Beach Bar,1216,4.5,Av  Litoral S N  Barcelona,Barcelona
+636,Agüelo Taberna Barcelona,571,4.0,Carrer  d Avinyó 37 Barcelona,Barcelona
+637,Trobador Rambla Catalunya,944,3.5,Rambla Catalunya 2 Barcelona,Barcelona
+638,Goiko - Passeig de Sant Joan 58,419,3.5,Passeig de Sant Joan 58  Barcelona,Barcelona
+639,Mo Te Magno,422,4.5,Carrer  Provenca 16  Barcelona,Barcelona
+640,Il Commendatore,316,3.5,Carrer  Comte d Urgell 247 Barcelona,Barcelona
+641,Fratelli la Bufala,570,4.0,Pau Claris 72 Barcelona,Barcelona
+642,El Melic del Gotic,1145,4.0,Montsio 7  Barcelona,Barcelona
+643,La Piazzenza,796,3.0,Avenida Gaudi 16 Barcelona,Barcelona
+644,El Señorio del Perú,323,3.5,Carrer  Corsega 607 Barcelona,Barcelona
+645,My Fucking Restaurant,839,4.5,Carrer  Nou de la Rambla n35  Barcelona,Barcelona
+646,aQistoi,921,4.5,Gerona 94  Barcelona,Barcelona
+647,Angle Barcelona,650,4.5,Carrer  Arago 214 Barcelona,Barcelona
+648,Can Vador,293,4.0,Carrer de la Diputacio 367  Barcelona,Barcelona
+649,La Cantina Mexicana,453,4.0,Carrer de Valencia 427  Barcelona,Barcelona
+650,Fenicia,425,4.5,Psg Antoni 9 Barcelona,Barcelona
+651,Restaurante Ipar-Txoko,206,4.0,Carrer  Mozart 22 Barcelona,Barcelona
+652,Santa Clara Restaurante,256,4.0,Carrer  Jiménez e Iglesias 11 13  Barcelona,Barcelona
+653,"La Tagliatella C.C. Diagonal Mar, Barcelona",688,3.5,CC Diagonal Mar   Avda  Diagonal 3 Barcelona,Barcelona
+654,Nevermind Bar,281,4.5,Escudellers Blancs  3 Gotico Barcelona,Barcelona
+655,Restaurante Sagues,222,4.0,Carrer de Sagues 25 Barcelona,Barcelona
+656,La Informal,348,4.0,Rambla del Raval 34 Barcelona,Barcelona
+657,Suarna,713,4.0,Carrer  Llança nº1 Barcelona,Barcelona
+658,La Bodegueta Provença,695,4.0,Carrer de Provença 233  Barcelona,Barcelona
+659,Casa Mari y Rufo,390,4.0,Carrer freixures 11  Barcelona,Barcelona
+660,Restaurante Mexicano Chilam Balam,301,3.5,Carrer  Industria 156 Barcelona,Barcelona
+661,Nomm,337,4.5,Av del Paral lel 130  Barcelona,Barcelona
+662,Restaurante El Rincon Maya,209,4.0,Valencia 183 Barcelona,Barcelona
+663,Eva & Olga of Evohé Barcelona,92,5.0, Cataluña Barcelona,Barcelona
+664,El Foro,1110,4.0,Carrer de La Princesa 53 Barcelona,Barcelona
+665,Deja Burg,211,4.5,Corcega 216 Barcelona,Barcelona
+666,Arenal Restaurant,719,3.5,Passeig Maritim La Barceloneta s n Barcelona,Barcelona
+667,El Rey de la Gamba-2,1842,3.5,Paseo Joan Borbo 46 48  Barcelona,Barcelona
+668,La Bodegueta,828,4.0,Rambla de Catalunya 100  Barcelona,Barcelona
+669,Oishii Ramen Street,276,4.0,Ronda Sant Pere 26 Barcelona,Barcelona
+670,GatBlau Restaurant,302,4.5,Carrer  Comte Borrell 122  Barcelona,Barcelona
+671,Opium Barcelona,860,3.5,Paseo Maritimo de la Barceloneta 34 Barcelona,Barcelona
+672,CDLC Barcelona,1085,4.0,Passeig Maritim 32  Barcelona,Barcelona
+673,Yatai,246,4.0,Comte D urgell 112  Barcelona,Barcelona
+674,Surya Pau Claris,663,4.0,Carrer Pau Claris 92  Barcelona,Barcelona
+675,Restaurante Bodega Sepulveda,406,4.0,Sepulveda 173 Barcelona,Barcelona
+676,Moments,718,4.5,Passeig de Gràcia Barcelona,Barcelona
+677,Soda Bus,263,4.5,Carrer d Aribau 150 Barcelona,Barcelona
+678,Rasoi,324,4.5,Carrer  Londres 63  Barcelona,Barcelona
+679,99 Sushi Bar - Barcelona,168,4.0,Carrer del Tenor Viñas 4 Barcelona,Barcelona
+680,Morelia restaurant,523,4.0,Plaza comercial 7 Barcelona,Barcelona
+681,Lab Restaurant,278,5.0,Carrer de Rossend Arús 12  Barcelona,Barcelona
+682,Taquerías Tamarindo,425,4.0,Carrer de Aragó 236  Barcelona,Barcelona
+683,Bar Calders,348,4.0,Carrer  Parlament 25  Barcelona,Barcelona
+684,König Barcelona Born,350,4.0,Carrer de la Fusina 3 Barcelona,Barcelona
+685,Salitre Barcelona,107,4.5,Carrer de Llull 169 Barcelona,Barcelona
+686,La Taberna del Cobre,728,4.0,Carrer  Argenteria 53 Barcelona,Barcelona
+687,Restaurant Cal Boter,543,4.0,Carrer Tordera 62 Barcelona,Barcelona
+688,Terra d'Escudella,278,4.0,Premia 20 baixos Barcelona,Barcelona
+689,El Pebrot i El Petit Cargol,244,4.0,Carrer  ALCOLEA 18  Barcelona,Barcelona
+690,Tapes Barcelona,234,4.5,Carrer Ample 46  Barcelona,Barcelona
+691,Bubo Born,1066,4.0,Caputxes 10 Barcelona,Barcelona
+692,Gandhi Restaurant,339,3.5,Carrer Balmes 21  Barcelona,Barcelona
+693,Kubik,751,3.0,Las Ramblas 45 Barcelona,Barcelona
+694,Gaudim,1121,4.5,Carrer Aragó 231 Barcelona,Barcelona
+695,Bo de B,769,4.5,Carrer  Fusteria 14 cantonada Merce  Barcelona,Barcelona
+696,MEXCLA Tapas y Cocteleria Mexicana,324,4.0,Carrer de Ramon y Cajal 35  Barcelona,Barcelona
+697,La Trini,366,4.0,Carrer  Verdi 30 Barcelona,Barcelona
+698,Bun Bo Raval,391,4.0,Carrer  Sagristans 3 Barcelona,Barcelona
+699,Petritxol Cafe,702,4.5,Carrer  Petritxol 11 Barcelona,Barcelona
+700,Pan & Oli,206,4.5,Galileu 30  Barcelona,Barcelona
+701,LeccaBaffi,378,4.5,Valencia 341  Barcelona,Barcelona
+702,El Filete Ruso,585,4.0,Carrer  Enric Granados 95 Barcelona,Barcelona
+703,Pudding Barcelona,278,3.5,Avda Diagonal 515 Barcelona,Barcelona
+704,Caravelle,829,4.5,Pintor Fortuny 31  Barcelona,Barcelona
+705,Zarautz Taberna Vasca,820,4.5,Carrer  Elisi 13 Barcelona,Barcelona
+706,VULCANUS Pizza,256,4.5,Carrer  Entença 64  Barcelona,Barcelona
+707,La Fitora,446,3.0,Moll de Gregal 18   19 Barcelona,Barcelona
+708,Baluard Barceloneta,354,4.5,Carrer de Provença 279 Barcelona,Barcelona
+709,Tomasso - New York Pizza,320,4.5,Carrer de Londres 93  Barcelona,Barcelona
+710,Hungaryto,411,4.5,Arago 353 Barcelona,Barcelona
+711,Pizzería Bar Ottantotto,276,5.0,Passatge d Utset 2 Barcelona,Barcelona
+712,Rio Dragon,170,4.5,Carrer de l oblit 3 Barcelona,Barcelona
+713,Oma Bistro,394,4.5,Carrer Del Consell de Cent 227 Barcelona,Barcelona
+714,Aguaribay,296,4.5,Carrer del Taulat 95  Barcelona,Barcelona
+715,La Plassohla,849,4.5,Via Laetana 49 Barcelona,Barcelona
+716,La Cua Curta,222,4.0,Carrer de la Carassa s n Barcelona,Barcelona
+717,Catalunya Restaurante,1270,4.5,Carrer  Avinyo 42  Barcelona,Barcelona
+718,La Vespa Burger Bar,366,4.0,Torrent de l Olla 99  Barcelona,Barcelona
+719,Restaurante Feroz,448,3.5,Carrer Tuset 27 Barcelona,Barcelona
+720,La pizza del Sortidor,257,4.5,Blasco de Garay 46  Barcelona,Barcelona
+721,Txokoa Barcelona,165,4.0,Carrer de Déu i Mata 146 Barcelona,Barcelona
+722,Somodo,389,4.5,Carrer de Ros de Olano 11  Barcelona,Barcelona
+723,La  Nueva  Marquesa,381,4.5,Carrer Pintor Tapiro 10 Barcelona,Barcelona
+724,Taverna hofmann,431,4.5,Carrer de Girona 145 Barcelona,Barcelona
+725,TocaTeca,411,4.5,Carrer  Garcilaso 172 Barcelona,Barcelona
+726,Pasa Tapas,546,4.5,Carrer  Doctor Aiguader 6  8 Barcelona,Barcelona
+727,La Bodega,320,4.0,Plaça de Molina 2 Barcelona,Barcelona
+728,Braseria El Glop,554,4.0,Casp 21 Barcelona,Barcelona
+729,Taller de Tapas - Josep Oriol,1777,4.0,Plaza Sant Josep Oriol 9  Barcelona,Barcelona
+730,Obama,742,4.0,Gran Via de les Corts Catalanes 603 Barcelona,Barcelona
+731,Krampus,244,4.0,Saragossa 89 Barcelona,Barcelona
+732,El All i Oli,204,3.5,Carrer  Alella 3  Barcelona,Barcelona
+733,Gelatomania Barcelona,81,4.5,Avenida de Mistral 64 Barcelona,Barcelona
+734,Ovante,202,4.5,Passeig de Fabra I Puig 95 Barcelona,Barcelona
+735,Timesburg Poblenou,632,4.0,Carrer  Pujades 168  Barcelona,Barcelona
+736,Gelateria Gocce di Latte,404,4.5,Pla de Palau  Barcelona,Barcelona
+737,Cremeria Toscana,205,4.5,Carrer Muntaner 161 Barcelona,Barcelona
+738,THAI THAI BCN,338,4.0,Carrer  VILLARROEL 68 Barcelona,Barcelona
+739,Ándele Santa Fe,318,4.5,Santa Fe Nou Mèxic 6 Barcelona,Barcelona
+740,Casa Dario,268,4.0,Consell de Cent 256 Barcelona,Barcelona
+741,Volta al Món,554,4.5,Carrer  Muntaner 51 Barcelona,Barcelona
+742,Forn Mistral,211,4.5,Ronda Sant Antoni 96 Barcelona,Barcelona
+743,La Cala Barceloneta,149,5.0,Carrer de l Escar 18 Barcelona,Barcelona
+744,Kobuta Ramen i més,113,4.5,Carrer de Súria 6  Barcelona,Barcelona
+745,Nobu Barcelona,70,4.0,Avinguda de Roma 2 4  Barcelona,Barcelona
+746,Sartoria Panatieri Gràcia,206,4.5,Carrer de l Encarnació 51  Barcelona,Barcelona
+747,Bravo,608,3.5,Placa de la Rosa del Vents 1 Barcelona,Barcelona
+748,La Vermuterie,263,4.0,Carrer  Muntaner 212  Barcelona,Barcelona
+749,Bilbao Restaurante,359,4.0,Carrer Perill 33  Barcelona,Barcelona
+750,Xup Xup Restaurant,877,4.0,Paseo Marítimo de la Barceloneta S N Barcelona,Barcelona
+751,Restaurante Somorrostro,1272,4.0,Carrer de Sant Carles 11 Barcelona,Barcelona
+752,Carlota Restaurant,281,4.0,Carrer  París 168 Barcelona,Barcelona
+753,La Taberna Griega,231,3.5,Torrent De L olla 123 Barcelona,Barcelona
+754,La Adelita Botanero,237,4.5,Carrer de Muntaner 100  Barcelona,Barcelona
+755,La Vinateria del Call,882,4.5,Carrer  Salomó Ben Adret 9  Barcelona,Barcelona
+756,Kurz & Gut,566,3.0,Moll d Espanya 5 Barcelona,Barcelona
+757,El Jardi de L'apat,257,3.0,Albert Llanas 2 Barcelona,Barcelona
+758,Restaurante Vivanda,419,4.0,Major de Sarria 134 Barcelona,Barcelona
+759,Kyoka,311,4.0,Via Augusta 268 Barcelona,Barcelona
+760,VENUS Delicatessen Barcelona,552,4.0,Carrer Avinyo 25  Barcelona,Barcelona
+761,Blau BCN,256,4.0,Carrer  Londres 89 Barcelona,Barcelona
+762,Restaurante El Reloj,404,4.0,Vía Laietana 40 Barcelona,Barcelona
+763,Galeria Cosmo,421,4.0,Enric Granados 3 Barcelona,Barcelona
+764,Restaurante China Crown Barcelona,51,4.5,Carrer  Casp 48  Barcelona,Barcelona
+765,Croq & Roll,227,4.5,Travessera de Gràcia 233 Barcelona,Barcelona
+766,El Tap,286,4.5,08029  Barcelona,Barcelona
+767,Quinoa Bar Vegetarià,447,4.5,Travessera de Gràcia 203 Barcelona,Barcelona
+768,El Desvan,188,4.5,Gran Via de les Corts Catalanes 453 Barcelona,Barcelona
+769,El Casal,986,4.5,Placa Victor Balaguer 5  Barcelona,Barcelona
+770,Garage Beer Co,378,4.5,Carrer De Consell De Cent 261 Barcelona,Barcelona
+771,La Strada Pizza Barcelona,110,4.5,Vila y Vila Num 48  Barcelona,Barcelona
+772,La Cereria,285,4.5,Baixada de Sant Miquel 3 Barcelona,Barcelona
+773,Pastisseria Lis Barcelona - Pere Camps,13,4.5,Carrer de La Riera Alta 19 Barcelona,Barcelona
+774,Ekubo',128,4.5,Comte d Urgell 108 Barcelona,Barcelona
+775,Kynoto Sushi Bar,224,4.5,Carrer  Correu Vell 8   Barcelona,Barcelona
+776,Bar Lafuente,178,4.0,Gran Via De Les Corts Catalanes 931  Barcelona,Barcelona
+777,Mishima Sushi Bar,190,4.0,Carrer Dr fleming 25 Barcelona,Barcelona
+778,Takenori Mito Daruma,156,4.5,Carrer  Villarroel 237  Barcelona,Barcelona
+779,Artespañol Paella & Tapas,1139,4.0,Carrer  Provenca 271  Barcelona,Barcelona
+780,Viena Ronda Sant Pere,376,4.0,Ronda de Sant Pere 11 Barcelona,Barcelona
+781,Pizzeria Da Nanni BORN,279,4.5,Carrer del Rec 30  Barcelona,Barcelona
+782,Restaurante Mi Rincon,198,4.5,Avenida Diagonal 303  Barcelona,Barcelona
+783,La Penela,114,4.5,Carrer de a Pau Claris 97 Barcelona,Barcelona
+784,Roast Club Specialty Coffee Roasters,348,5.0,Carrer Valencia 190  Barcelona,Barcelona
+785,Mustà Shawarma,113,4.5,Mozart 4  Barcelona,Barcelona
+786,The Ranch Smokehouse,174,4.5,Ronda Universitat 20  Barcelona,Barcelona
+787,Madame,262,4.5,Robador 22 Barcelona,Barcelona
+788,Restaurante Tram Tram,233,4.5,Major de Sarrià 121  Barcelona,Barcelona
+789,"Pizzeria Focacceria Toscana ""Pizza al Taglio""",570,4.5,Carrer  Ferran 41  Barcelona,Barcelona
+790,Pla Restaurant,1449,4.5,Carrer  Bellafila 5 Barcelona,Barcelona
+791,A33 Pizzeria,114,5.0,Carrer de Manso 22  Barcelona,Barcelona
+792,El Cocinero de Damasco,137,4.5,Templers 2 corner with Palau Barcelona,Barcelona
+793,Pasta Madre,406,4.5,Carrer Dels Tallers 3 Barcelona,Barcelona
+794,Restaurant Reñé,607,4.0,Consell de Cent 362 Barcelona,Barcelona
+795,Can Vador Illa Diagonal,242,4.0,Carrer  Deu i Mata 69  Barcelona,Barcelona
+796,"San Pedrito, Restaurante Y Licoreria",129,4.5,Carrer de la Fusina  Barcelona,Barcelona
+797,La Carioca,229,4.5,Plaça de Pau Vila  Barcelona,Barcelona
+798,Cafés El Magnifico,331,4.5,Carrer de l Argenteria 64 Barcelona,Barcelona
+799,Can Valles,896,4.5,Carrer d Arago 95  Entre Calabria y Rocafort Barcelona,Barcelona
+800,Escriba,1833,4.5,Rambla de les Flors 83 Barcelona,Barcelona
+801,Mariscco Còrsega,1070,4.0,Carrer  Corsega 272  Barcelona,Barcelona
+802,Xurreria Dels Banys Nous,642,4.5,Carrer dels Banys Nous 8  Barcelona,Barcelona
+803,ELS TRES PORQUETS,395,4.0,RAMBLA DEL POBLENOU 165 Barcelona,Barcelona
+804,Bruc33Tapas,1085,4.0,Carrer  Bruc 33 Barcelona,Barcelona
+805,Ugarit Joanic,190,4.5,Carrer  Bruniquer 69 Barcelona,Barcelona
+806,La Deliciosa,2025,4.5,Paseo Marítimo de Barceloneta S N  Barcelona,Barcelona
+807,En Diagonal Bar,731,4.5,Avenida Diagonal 310 Barcelona,Barcelona
+808,El Xiringo,388,4.5,Cr  Sant Carles no23  Barcelona,Barcelona
+809,Itapa Boqueria,1499,2.5,La Rambla 98  Barcelona,Barcelona
+810,Arrosseria Las Arenas,1757,4.5,Carrer de Llanca 15 21 Barcelona,Barcelona
+811,DonCurado Tasting Barcelona,357,4.0,Rambla Del Poblenou 125 Barcelona,Barcelona
+812,"La Tagliatella Plaça Catalunya, Barcelona",260,3.5,Ronda de la Universitat 31 Barcelona,Barcelona
+813,Restaurant Cátedra,254,4.5,Via Laietana Nº 5  Barcelona,Barcelona
+814,La Tinaja,355,4.5,Carrer de L esparteria 9 Barcelona,Barcelona
+815,Il Duomo & La Mole,109,4.5,Plaza Mossen Clapes 14  Barcelona,Barcelona
+816,Habana Vieja Restaurante Cubano,219,4.5,Banys Vells 2 Barcelona,Barcelona
+817,Spice Cafe,307,4.5,Carrer  Margarit 13 Barcelona,Barcelona
+818,L'Osteria del Contadino,199,4.5,Carrer  Saragossa 123 Barcelona,Barcelona
+819,PIZZERIA LA NOVA FONTANA,175,4.5,Santjoanistes 6  Barcelona,Barcelona
+820,CentOnze Restaurante,702,4.0,Ramblas 111  Barcelona,Barcelona
+821,Bar Ramon,338,4.0,Carrer del Comte Borrell 81 Barcelona,Barcelona
+822,Can Boneta,270,4.5,Carrer  Balmes 139 Barcelona,Barcelona
+823,Kailash Restaurante Tibetano,136,4.5,Carrer de Roger de Llúria  Barcelona,Barcelona
+824,Sushifresh,217,4.0,Europa 24 Barcelona,Barcelona
+825,Terraza Ohla Barcelona,79,3.5,Via Laietana 49 Barcelona,Barcelona
+826,Creps al Born,641,4.5,Passeig del Born 12 Barcelona,Barcelona
+827,b Restaurant,143,5.0,Carrer Rosselló 24  Barcelona,Barcelona
+828,Thai Spicy Restaurante,194,4.5,Carrer Comte Borrell 188 Barcelona,Barcelona
+829,H1898,311,4.5,Carrer  La Rambla 109 Barcelona,Barcelona
+830,Pizza Pazza,657,4.5,Carrer Ample 44  Barcelona,Barcelona
+831,Narciso,294,5.0,Carrer  Princesa 9  Barcelona,Barcelona
+832,Ca La Nuri,577,3.5,Consell de Cent 377 Barcelona,Barcelona
+833,Timesburg Sants,261,4.0,Carrer  Moianes 75  Barcelona,Barcelona
+834,The Rooftop at Sir Victor,167,5.0,Carrer del Rosselló 265 Barcelona,Barcelona
+835,Mimo's Born,417,4.5,Plaça de Jacint Reventós  Barcelona,Barcelona
+836,La Panxa del Bisbe,622,4.5,Torrent de Les Flors 158  Barcelona,Barcelona
+837,Restaurante Japones Ogura,341,3.5,Napols 189  Barcelona,Barcelona
+838,Dolceria De La Colmena,340,4.5,Plaça De l Àngel 12  Barcelona,Barcelona
+839,Samoa,637,3.5,Passeig de gràcia 101  Barcelona,Barcelona
+840,La Taguara Areperia,282,4.0,Carrer Del Rec 10 Barcelona,Barcelona
+841,Gallo Nero,377,5.0,Carrer de Jaume I 3 Barcelona,Barcelona
+842,Obe Restaurant,345,4.5,Placa de Santa Caterina 1  Barcelona,Barcelona
+843,Petit Bangkok,175,4.5,Carrer de Balmes 106 Barcelona,Barcelona
+844,Abasolo Etxea,172,4.5,Carrer de Marià Cubi 190 Barcelona,Barcelona
+845,Futballarium Barcelona,547,4.5,Carrer de Benavent 7   Barcelona,Barcelona
+846,Tonkotsu Ramen & Asían street food,257,3.5,Valencia290 Barcelona,Barcelona
+847,Kimchi Mama,154,5.0,Callao 12  Barcelona,Barcelona
+848,Napoli Prima e Dopo,259,4.0,Carrer  Villaroel 255 Barcelona,Barcelona
+849,Paral·lelo,177,5.0,Carrer  Seneca 18  Barcelona,Barcelona
+850,Restaurante Sannin,107,4.5,Carrer de l Encarnació 44 Barcelona,Barcelona
+851,Futami,168,4.5,Enric Granados 10 Barcelona,Barcelona
+852,Ken Restaurante,230,4.0,Benet Mateu 53 Barcelona,Barcelona
+853,Panqa Barcelona,133,4.5,Sepulveda 76 Barcelona,Barcelona
+854,Bodega Colibri,408,4.5,Joan de Borbó 6 Barcelona,Barcelona
+855,Òstàia Cucina Italiana,271,4.5,Carrer  Aribau 58  Barcelona,Barcelona
+856,La Caleta Burger,189,5.0,Rambla del Raval 18 Barcelona,Barcelona
+857,Pla de la Garsa,394,4.5,Carrer dels Assaonadors 13 Barcelona,Barcelona
+858,Taco Alto Raval,250,4.5,Rambla del Raval 2 Bis Barcelona,Barcelona
+859,Ca L´Andreu,331,4.5,Carrer Del Bou De Sant Pere 13  Barcelona,Barcelona
+860,Lamun Cuina Thai,208,4.5,Carrer De Viladomat 73  Barcelona,Barcelona
+861,Pappa Sven,232,4.5,Carrer de Villarroel 22 Barcelona,Barcelona
+862,Vioko,314,4.5,Passeig de Joan De Borbo 55 Barcelona,Barcelona
+863,Restaurante Di Como Bcn,128,4.5,Muntaner 231  Barcelona,Barcelona
+864,Tasca I Vins,324,3.5,Carrer Diputació 304 Barcelona,Barcelona
+865,Maccaroni,597,4.5,Carders 6 Barcelona,Barcelona
+866,Pizzeria L'Antica Napoli,109,4.5,Carrer de la Concordia 53  Barcelona,Barcelona
+867,Koska Taverna,183,4.5,Blai 8  Barcelona,Barcelona
+868,DOP Restaurante,217,4.0,Via Augusta 201 Barcelona,Barcelona
+869,Piras Braseria,233,4.0,Carrer  montseny 10  Barcelona,Barcelona
+870,Bormuth,1271,4.0,Carrer Rec 31  Barcelona,Barcelona
+871,Restaurant Hindú Shanti,254,4.0,Carrer  Agustina Saragossa 3 5  Barcelona,Barcelona
+872,Portal De La Pau,925,4.5,Plaça Portal de la Pau 4 Barcelona,Barcelona
+873,La Luna,835,4.5,Carrer Abaixadors 10 Barcelona,Barcelona
+874,La Taberna del Eixample Venezolanos,157,4.5,Gran via de les corts catalanes 688 Barcelona,Barcelona
+875,La Lubina,325,4.5,Carrer  Viladomat 257  Barcelona,Barcelona
+876,Restaurante Balmes Marisquería,180,4.5,Carrer de Balmes 413 Barcelona,Barcelona
+877,Restaurante Nogal,866,4.0,Carrer De La Diputació 412 Barcelona,Barcelona
+878,Xiloka,437,5.0,Carrer  Cabanes 22 Barcelona,Barcelona
+879,Restaurante Loto,155,5.0,Carrer  del Call 17  Barcelona,Barcelona
+880,Paisano Bistró,875,5.0,Carrer Lepant 277 Barcelona,Barcelona
+881,Locavore Barcelona,128,5.0,Carrer D aribau 151 Barcelona,Barcelona
+882,Kawamura,137,4.5,Carrer  Arago 217 Barcelona,Barcelona
+883,ChichaLimoná,517,4.0,Passage Sant Joan 80  Barcelona,Barcelona
+884,Caj Chai,273,4.5,Carrer  Salomó Ben Adret 12  Barcelona,Barcelona
+885,Na Mindona Restaurant,113,4.5,Carrer Riereta 8 Barcelona,Barcelona
+886,El Chigre 1769,503,4.5,Carrer dels Sombrerers 7 Barcelona,Barcelona
+887,Las Sorrentinas,303,4.5,Pl  Sant Pere 5 Barcelona,Barcelona
+888,La Cuina de Laietana,467,4.5,Via Laietana 71  Barcelona,Barcelona
+889,Swad - The Indian Restaurant,359,4.5,Carrer Sancho de Avila 167 171  Barcelona,Barcelona
+890,Restaurante La Perla BCN,185,4.5,Carrer  Paseo de la exposición 62 Barcelona,Barcelona
+891,Equilibri Bcn,280,4.5,Carrer de Sardenya 404 Barcelona,Barcelona
+892,Kame House Kitchen BCN,203,4.5,Carrer d Enric Granados 14 Barcelona,Barcelona
+893,El Laurel,213,4.5,Carrer FLORIDABLANCA 140 Barcelona,Barcelona
+894,Cachaca Restaurante,339,4.5,Carrer  Ataulf 5 Barcelona,Barcelona
+895,La Come Dia,291,4.5,Carrer de la Franca Xica 15 Barcelona,Barcelona
+896,Opera Samfaina,478,3.5,La Rambla 51  Barcelona,Barcelona
+897,Empire Barcelona,71,4.0,Moll de Gregal 25 Barcelona,Barcelona
+898,Cèntric,437,4.5,Carrer de les ramelleres 27 Barcelona,Barcelona
+899,Catacroquet,369,3.5,Carrer Almogavers 211  Barcelona,Barcelona
+900,Via dei Mille,280,4.0,Arago 364  Barcelona,Barcelona
+901,La Vinoteca Torres,739,4.0,Passeig de Gracia 78 Barcelona,Barcelona
+902,La cuchara del norte,213,4.0,Carrer Viladomat 197 Barcelona,Barcelona
+903,Restaurante Brasería Los Cachitos,477,4.0,Ronda Sant Pau 4 Barcelona,Barcelona
+904,L'altre Caliu,82,4.5,Carrer  Lluca 11  Barcelona,Barcelona
+905,Artisa,1322,4.5,Carrer de Colom 2 Barcelona,Barcelona
+906,Purobeach Barcelona,158,3.5,Passeig del Taulat 262 264 Barcelona,Barcelona
+907,Cinc Sentits,1008,4.5,Entenza 60  Barcelona,Barcelona
+908,Restaurant B-ONE Palau del Mar,673,4.0,Place de Pau Vila 1 Barcelona,Barcelona
+909,Club de L'empanada,209,4.5,Carrer  Dagueria 7  Barcelona,Barcelona
+910,Merce Vins,245,4.5,Carrer Amargós 1  Barcelona,Barcelona
+911,Pizzeria Da Nanni Tallers,151,5.0,Carrer Tallers 72  Barcelona,Barcelona
+912,Un gelato per te,201,5.0,Carrer de Sant Felip Neri 1  Barcelona,Barcelona
+913,Tast-Ller,841,4.5,Carrer  Viladomat 137  Barcelona,Barcelona
+914,Komo en Kasa,149,4.5,Carrer de Joaquin Costa 3  Barcelona,Barcelona
+915,Basilea,105,4.5,Carrer de Sant Antoni Maria Claret 211 Barcelona,Barcelona
+916,Txapela Paseo de Gracia - Aragón,508,3.5,Paseo de Gracia 58  Barcelona,Barcelona
+917,Ikibana Borne,929,4.0,Passeig Picasso 32 Barcelona,Barcelona
+918,Restaurante Xix Kebab,123,4.5,Corsega 193 Barcelona,Barcelona
+919,Txapela,792,3.5,Plaça  Catalunya 8 Barcelona,Barcelona
+920,Chiringuito Las Sardinitas,460,3.5,Avinguda Litoral 36 Barcelona,Barcelona
+921,Restaurante Pau Claris 190,875,4.5,Pau Claris 190  Barcelona,Barcelona
+922,Flexbowls,48,4.5,Diputacion 289  Barcelona,Barcelona
+923,Piu Restaurants,589,3.5,Gran Via De Les Corts Catalanes 633 Barcelona,Barcelona
+924,Casa Jaime,473,4.0,Consell de Cent 222 Barcelona,Barcelona
+925,ASKADINYA,321,4.0,Carrer  Verdi 28  Barcelona,Barcelona
+926,Bambarol,885,4.5,Carrer Santalo 21  Barcelona,Barcelona
+927,Vegetalia Gotico,1614,4.5,Escudellers 54 Barcelona,Barcelona
+928,A Casa Mia Trattoria,215,4.5,Carrer  Maria Cubi 96 Barcelona,Barcelona
+929,Santa Tapa Barcelona,161,4.0,Carrer  de la Piedad 8  Barcelona,Barcelona
+930,Bardeni - Caldeni,184,4.5,Valencia 454  Barcelona,Barcelona
+931,Restaurante Quixote,229,4.0,Consell de Cent 314 Barcelona,Barcelona
+932,Vi Negre,328,4.0,Carrer Guilleries 17 Barcelona,Barcelona
+933,Rabipelao Gracia,230,4.0,Carrer  Torrent D en Vidalet 22 Barcelona,Barcelona
+934,O' Principe,315,4.0,Carrer de Pujades 209  Barcelona,Barcelona
+935,La Caleta de Gracia,283,4.0,Carrer Torrent de L Olla 121  Barcelona,Barcelona
+936,Samsara,303,4.0,Terol 6 Barcelona,Barcelona
+937,Al Passatore,420,3.5,Pla Palau No  8  Barcelona,Barcelona
+938,Mosquito,1345,4.0,Carders 46 Barcelona,Barcelona
+939,Macchina Pasta Bar,755,4.5,Asturies 17  Barcelona,Barcelona
+940,La Cazuela Barcelona,21,4.5,Tucumán 28  Barcelona,Barcelona
+941,Lamian Barcelona,23,4.5,Carrer Diputacio 294  Barcelona,Barcelona
+942,Cheese's Art,377,3.5,Carrer  Enric Granados 13 Barcelona,Barcelona
+943,LA BONA SORT,891,3.5,Carrer Carders N  12  Barcelona,Barcelona
+944,Onofre,303,4.5,Magdalenes 19 Barcelona,Barcelona
+945,Horchatería La Valenciana,106,4.5,Aribau 16 Barcelona,Barcelona
+946,O.G.G.I. Gelato,409,5.0,Carrer Comtal 15  Barcelona,Barcelona
+947,Romantico Restaurant,26,4.5,Av  de Sarrià 17 Barcelona,Barcelona
+948,Xoxo Barcelona,36,4.5,Carrer de la Riera de Sant Miquel 69 Barcelona,Barcelona
+949,Eroica Caffe Barcelona,60,4.5,Consell de Cent 350 Barcelona,Barcelona
+950,"La Tagliatella C.C. Las Arenas, Barcelona",490,3.5,Carrer  Gran Vía de les Corts Catalanes 373 385 Barcelona,Barcelona
+951,Creps Barcelona,92,4.0,Enric Granados 38 Barcelona,Barcelona
+952,Bar Azul Barcelona,62,4.0,Carrer de Corsega 691 Barcelona,Barcelona
+953,Veg World India,426,4.5,Carrer de Bruniquer 24 Barcelona,Barcelona
+954,Sabor Persa,259,4.5,Carrer  Valencia 210  Barcelona,Barcelona
+955,"La Maroteca, Restaurant de Peix Salvatge",139,4.5,Carrer  Aribau 37 Barcelona,Barcelona
+956,Sweetaly Barcelona,71,5.0,Ronda de Sant Pau 39  Barcelona,Barcelona
+957,Kserol,378,4.5,Carrer de Nàpols 182  Barcelona,Barcelona
+958,Can Pizza,105,4.5,Passatge SImó 21 Barcelona,Barcelona
+959,Chihuahua restaurant,286,4.0,Passeig de Maragall 107 Barcelona,Barcelona
+960,La Cava Cakery,183,5.0,Psg  Sant Joan 111  Barcelona,Barcelona
+961,L'Olivé,719,4.0,Balmes 47  Barcelona,Barcelona
+962,De Tapa Madre,1080,4.0,Mallorca 301 Barcelona,Barcelona
+963,La Polpa,538,4.0,Enrique Granados 69 Barcelona,Barcelona
+964,"83,3 Terrace Bar",150,4.5,Passeig de Gràcia 84 Barcelona,Barcelona
+965,Single Fin Sagrada Familia Poke Gourmet,128,5.0,Carrer de Sicília 294 Barcelona,Barcelona
+966,The Clock Terrace,66,4.5,Plaza España 6 8 Barcelona,Barcelona
+967,Una Mica De Japó,197,4.5,Carrer d Aragó 104  Barcelona,Barcelona
+968,Gula Bar,116,4.5,Carrer del Dr  Rizal 20 Barcelona,Barcelona
+969,Tribo Sushi & Cocktails,119,4.5,Enrique Granados  Barcelona,Barcelona
+970,Zenith Brunch & Cocktails,587,5.0,Gran Via de les Corts Catalanes 633 Barcelona,Barcelona
+971,El Brunch del Majestic,171,4.5,Paseo de Gracia 68  Barcelona,Barcelona
+972,Kook,591,4.5,Passeig Sant Joan 85  Barcelona,Barcelona
+973,San Kil,108,4.5,Legalitat 22 Barcelona,Barcelona
+974,Capet,264,4.5,Cometa 5 Barcelona,Barcelona
+975,Goiko - Aribau 113,289,3.5,Aribau 113  Barcelona,Barcelona
+976,PUMMAROLA PIZZERIA NAPOLETANA,239,4.5,Ronda de Sant Pau 59  Barcelona,Barcelona
+977,Momo Avinyó,1908,4.5,Carrer Avinyo 39 Barcelona,Barcelona
+978,Masala 73 Curry Bar,166,4.5,Muntaner 152  Barcelona,Barcelona
+979,La Trocadero,236,4.5,Marina 269  Barcelona,Barcelona
+980,Restaurante Bonanova,194,4.0,Sant Gervasi de Cassoles 103 Barcelona,Barcelona
+981,Dunnes Irish Bar Barcelona,663,4.0,Via Laietanna 19 Barcelona,Barcelona
+982,Hula Poke Food - URQUINAONA,99,4.5,Carrer d  Ausias Marc 4  Barcelona,Barcelona
+983,Bendito pecado,84,4.5,Carrer del Comerç 8  Barcelona,Barcelona
+984,Edén Napoletano,127,4.5,Carrer de la Diputació 197 Barcelona,Barcelona
+985,Piazza Grande,222,4.5,Plaza Julio Gonzalez 10 Barcelona,Barcelona
+986,GOLIARD,320,4.5,Carrer PROGRES 6 Barcelona,Barcelona
+987,The Box,1084,4.5,Carrer D en Gignas 30  Barcelona,Barcelona
+988,Urretxu,159,4.5,Carrer de la Marina 64 Barcelona,Barcelona
+989,Comida De Olla,350,4.5,Carrer de Praga 1 Barcelona,Barcelona
+990,Salterio,521,4.5,Carrer Sant Domenec del Call 4 Barcelona,Barcelona
