@@ -42,14 +42,14 @@ We need to get the information most relevant for the future analysis and visuali
 ## Data Cleaning: Standarization & Checking Null values  <a name="Data-cleaning"/>
 
 
-Before the technical cleaning we could drop some restaurants bearing in mind their names, cause we have found some restaurants that they have the word Barcelona in their names. 
+Before the technical cleaning we could drop some restaurants bearing in mind their names, cause we have found some restaurants that they have the word Barcelona in their names but not in the address. 
 
 Next, we need to prepare the dataframe to be able to geocode the addresses with the geopy module. Doing the webscraping there aren't null values, but we have to standarize some names in the address, make it lower case and delete some special characters.  
 
 ## Geocoding  
 <a name="#Geocoding"/> 
 
-Once we have the dataframe we can run the code with the geopy module to get the longitud and latitud variables. Also we can get a column locator to check if the the location got it from geopy algorithm is the same than the location from the address scraped. The dataframe resulting from the geocoding it gave us some null values but also some wrong addresses. To deal with this we could transform manually the null addresses to longitud latitud, but we decided to drop it. 
+Once we have the dataframe we can run the code with the geopy module to get the longitud and latitud variables. Also we can get a column locator to check if the location got it from geopy algorithm is the same than the location from the address scraped. The dataframe resulting from the geocoding it gave us some null values but also some wrong addresses. To deal with this we could transform manually the null addresses to longitud latitud, but we decided to drop it. 
 
 ![Geocoding](https://github.com/SergiGuasch/Projects/blob/main/Data%20Analysis/Final%20Project/Images/Geocoding.jpg)  
 *Fig 2. DataFrame with the location column as result from geocode*
