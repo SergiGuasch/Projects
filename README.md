@@ -1,6 +1,11 @@
-# Sergi Alvarez Guasch                                                            <p align="right">![Profile](C:\Users\Sergi\Documents\GitHub\sergiguasch\DSC04720-min-min.png)</p>   
-<p align="center">**MAIN ROLES**</p>  
-<p align="center">**Junior Data Analyst,  QA Engineer &  GIS technician**</p>
+<p align="center">
+  <img src="https://github.com/SergiGuasch/sergiguasch/blob/main/profile.jpg" width="200" height="240">
+</p>
+
+# Sergi Alvarez Guasch
+
+**<p align="center">MAIN ROLES</p>**
+**<p align="center">**Junior Data Analyst,  QA Engineer &  GIS technician**</p>**
 
 - Contact: 
   - Phone: 600 853 521 
@@ -52,7 +57,7 @@
 - English: IELTS National Tertiary Education Consortium (New Zealand, 2015), New Zealand Institute of Studies (New Zealand, 2014)
 - Spanish: Native or bilingual proficiency
 - Catalan: C1 Native or bilingual proficiency
-- Italian: A2  
+- Italian: A2    
 - GIS Technician: QGIS, ArcGIS, MiraMon, PyQGIS, PostgreSQL (PostGis), CARTO, Mapbox, Microsation
 - Data Analyst: Python, Power BI, Tableau, MySQL, Machine Learning, Pandas, NumPy, Scikit-learn, Matplotlib
   
