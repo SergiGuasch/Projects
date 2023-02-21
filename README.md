@@ -44,7 +44,7 @@
 - Performing GIS analysis and processing satellite images.
 
 ## Education 
-
+- 2023: Application programming Web Map – Frontend [Leaflet / OpenLayers] (UdG - UNIGIS)
 - 2022: Data Analytics Bootcamp (IronHack)
 - 2020: Professional Master in GIS (UdG - UNIGIS)
 - 2020: Programming Python-PyQGIS (MappingGIS)
