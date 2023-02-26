@@ -5,7 +5,7 @@
 # Sergi Alvarez Guasch
 
 **<p align="center">MAIN ROLES</p>**
-**<p align="center">**Junior Data Analyst,  QA Engineer &  GIS technician**</p>**
+**<p align="center">**Junior Data Analyst,  QA Engineer &  GIS Technician**</p>**
 
 - Contact: 
   - Phone: 600 853 521 
@@ -58,7 +58,7 @@
 - Spanish: Native or bilingual proficiency
 - Catalan: C1 Native or bilingual proficiency
 - Italian: A2    
-- GIS Technician: QGIS, ArcGIS, MiraMon, PyQGIS, PostgreSQL (PostGis), CARTO, Mapbox, Microsation
+- GIS Technician: QGIS, ArcGIS, MiraMon, PyQGIS, PostgreSQL (PostGis), CARTO, Mapbox, Microsation, Javascript, HTML, CSS
 - Data Analyst: Python, Power BI, Tableau, MySQL, Machine Learning, Pandas, NumPy, Scikit-learn, Matplotlib
   
 <p align="center">- GitHub: https://github.com/SergiGuasch/Projects.git </p>                               
